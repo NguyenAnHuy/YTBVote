@@ -1,0 +1,15 @@
+2021/01/08-12:34:04.766 54b0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_bilutvzz.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/08-12:34:04.767 54b0 Recovering log #7
+2021/01/08-12:34:04.767 54b0 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_bilutvzz.net_0.indexeddb.leveldb/000007.log 
+2021/01/08-12:35:44.184 4b78 Level-0 table #12: started
+2021/01/08-12:35:44.186 4b78 Level-0 table #12: 190 bytes OK
+2021/01/08-12:35:44.188 4b78 Delete type=0 #7
+2021/01/08-12:35:44.188 4b78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/08-12:35:44.188 4b78 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 256 : 1
+2021/01/08-12:35:44.188 4b78 Compacting 1@1 + 1@2 files
+2021/01/08-12:35:44.190 4b78 Generated table #13@1: 81 keys, 1212 bytes
+2021/01/08-12:35:44.190 4b78 Compacted 1@1 + 1@2 files => 1212 bytes
+2021/01/08-12:35:44.192 4b78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/08-12:35:44.192 4b78 Delete type=2 #9
+2021/01/08-12:35:44.192 4b78 Delete type=2 #12
+2021/01/08-12:35:44.193 4b78 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 256 : 1 .. (end); will stop at (end)

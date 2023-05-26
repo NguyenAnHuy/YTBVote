@@ -1,0 +1,8 @@
+2020/12/11-15:24:41.271 3574 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_news.gearvn.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/11-15:24:41.272 3574 Recovering log #4
+2020/12/11-15:24:41.272 3574 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_news.gearvn.com_0.indexeddb.leveldb/000004.log 
+2020/12/11-19:15:02.048 2994 Level-0 table #8: started
+2020/12/11-19:15:02.048 2994 Level-0 table #8: 0 bytes OK
+2020/12/11-19:15:02.050 2994 Delete type=0 #4
+2020/12/11-19:15:02.050 2994 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/11-19:15:02.050 2994 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

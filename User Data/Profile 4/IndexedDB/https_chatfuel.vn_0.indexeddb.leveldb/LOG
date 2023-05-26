@@ -1,0 +1,6 @@
+2020/12/26-11:57:56.992 b014 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_chatfuel.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/26-11:58:05.692 2ec8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/12/26-11:58:07.696 3ca8 Level-0 table #5: started
+2020/12/26-11:58:07.699 3ca8 Level-0 table #5: 596 bytes OK
+2020/12/26-11:58:07.701 3ca8 Delete type=0 #3
+2020/12/26-11:58:07.701 3ca8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

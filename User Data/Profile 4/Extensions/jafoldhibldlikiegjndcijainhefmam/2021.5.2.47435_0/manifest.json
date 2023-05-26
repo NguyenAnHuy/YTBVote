@@ -1,0 +1,37 @@
+{
+   "app": {
+      "display_mode": "minimal-ui",
+      "icon_color": "#3267AF",
+      "launch": {
+         "web_url": "https://voz.vn/?_pwa=1"
+      },
+      "linked_icons": [ {
+         "size": 192,
+         "url": "https://voz.vn/styles/next/xenforo/voz-logo-192.png?v=1"
+      }, {
+         "size": 512,
+         "url": "https://voz.vn/styles/next/xenforo/voz-logo-512.png?v=1"
+      } ],
+      "theme_color": "rgba(92,112,153,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "512": "icons/512.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "VPSKBtc8yLH5a6fVqtTO+nDIMI1IhIrKmIuR6wkI1hM=",
+   "name": "theNEXTvoz",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://voz.vn/*" ],
+         "title": "theNEXTvoz"
+      }
+   },
+   "version": "2021.5.2.47435"
+}

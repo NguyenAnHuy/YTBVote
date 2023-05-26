@@ -1,0 +1,17 @@
+2020/11/20-10:11:31.315 5b78 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_news.hanoicomputer.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/20-10:11:36.282 5b78 Level-0 table #5: started
+2020/11/20-10:11:36.287 5b78 Level-0 table #5: 592 bytes OK
+2020/11/20-10:11:36.289 5b78 Delete type=0 #3
+2020/11/20-10:11:36.290 5b78 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/20-10:11:38.285 544c Level-0 table #7: started
+2020/11/20-10:11:38.287 544c Level-0 table #7: 237 bytes OK
+2020/11/20-10:11:38.289 544c Delete type=0 #4
+2020/11/20-10:11:38.289 544c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/20-10:11:38.290 5b78 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2020/11/20-10:11:38.290 5b78 Compacting 1@1 + 1@2 files
+2020/11/20-10:11:38.292 5b78 Generated table #8@1: 5 keys, 237 bytes
+2020/11/20-10:11:38.292 5b78 Compacted 1@1 + 1@2 files => 237 bytes
+2020/11/20-10:11:38.294 5b78 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/20-10:11:38.294 5b78 Delete type=2 #5
+2020/11/20-10:11:38.294 5b78 Delete type=2 #7
+2020/11/20-10:11:38.294 5b78 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

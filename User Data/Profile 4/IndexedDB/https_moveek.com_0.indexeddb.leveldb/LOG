@@ -1,0 +1,5 @@
+2021/03/19-20:44:19.593 15cc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_moveek.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/19-20:48:30.275 2780 Level-0 table #5: started
+2021/03/19-20:48:30.280 2780 Level-0 table #5: 5752 bytes OK
+2021/03/19-20:48:30.283 2780 Delete type=0 #3
+2021/03/19-20:48:30.283 2780 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

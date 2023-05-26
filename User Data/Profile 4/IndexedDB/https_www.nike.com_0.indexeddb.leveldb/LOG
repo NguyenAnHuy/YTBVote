@@ -1,0 +1,5 @@
+2021/01/14-18:21:00.213 2a2c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.nike.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/15-00:25:57.094 5268 Level-0 table #5: started
+2021/01/15-00:25:57.096 5268 Level-0 table #5: 3771 bytes OK
+2021/01/15-00:25:57.098 5268 Delete type=0 #3
+2021/01/15-00:25:57.098 5268 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

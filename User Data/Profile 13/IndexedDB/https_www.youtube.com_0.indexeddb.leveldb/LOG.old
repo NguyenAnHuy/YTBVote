@@ -1,0 +1,12 @@
+2021/10/26-21:43:54.849 4550 Reusing MANIFEST D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 13\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/26-21:43:54.850 4550 Recovering log #40
+2021/10/26-21:43:54.863 4550 Reusing old log D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 13\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000040.log 
+2021/10/26-21:44:37.436 2cac Level-0 table #45: started
+2021/10/26-21:44:37.451 2cac Level-0 table #45: 1032666 bytes OK
+2021/10/26-21:44:37.453 2cac Delete type=0 #40
+2021/10/26-21:44:38.399 367c Compacting 1@1 + 1@2 files
+2021/10/26-21:44:38.408 367c Generated table #46@1: 1824 keys, 102879 bytes
+2021/10/26-21:44:38.408 367c Compacted 1@1 + 1@2 files => 102879 bytes
+2021/10/26-21:44:38.409 367c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/26-21:44:38.410 367c Delete type=2 #42
+2021/10/26-21:44:38.410 367c Delete type=2 #45

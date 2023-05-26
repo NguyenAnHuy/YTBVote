@@ -1,0 +1,15 @@
+2021/05/11-20:42:15.380 2028 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/11-20:42:15.380 2028 Recovering log #167
+2021/05/11-20:42:15.380 2028 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.tiktok.com_0.indexeddb.leveldb/000167.log 
+2021/05/11-20:42:55.244 27e0 Level-0 table #172: started
+2021/05/11-20:42:55.246 27e0 Level-0 table #172: 2272 bytes OK
+2021/05/11-20:42:55.247 27e0 Delete type=0 #167
+2021/05/11-20:42:55.248 27e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/11-20:42:55.248 27e0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x10`\xa0\xba\x95wB\x00\x01f\x00c\x00d\x00n\x00-\x00f\x00o\x00n\x00t\x00-\x00f\x00i\x00l\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x001\x006\x00.\x00t\x00i\x00k\x00t\x00o\x00k\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00m\x00u\x00s\x00i\x00c\x00a\x00l\x00/\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00/\x00m\x00t\x00a\x00c\x00t\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00p\x00r\x00o\x00x\x00i\x00m\x00a\x00-\x00n\x00o\x00v\x00a\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00.\x00w\x00o\x00f\x00f\x002' @ 7126 : 1
+2021/05/11-20:42:55.248 27e0 Compacting 1@1 + 1@2 files
+2021/05/11-20:42:55.250 27e0 Generated table #173@1: 79 keys, 4699 bytes
+2021/05/11-20:42:55.250 27e0 Compacted 1@1 + 1@2 files => 4699 bytes
+2021/05/11-20:42:55.251 27e0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/11-20:42:55.251 27e0 Delete type=2 #169
+2021/05/11-20:42:55.251 27e0 Delete type=2 #172
+2021/05/11-20:42:55.252 27e0 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x10`\xa0\xba\x95wB\x00\x01f\x00c\x00d\x00n\x00-\x00f\x00o\x00n\x00t\x00-\x00f\x00i\x00l\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00s\x001\x006\x00.\x00t\x00i\x00k\x00t\x00o\x00k\x00c\x00d\x00n\x00.\x00c\x00o\x00m\x00/\x00m\x00u\x00s\x00i\x00c\x00a\x00l\x00/\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00/\x00m\x00t\x00a\x00c\x00t\x00/\x00s\x00t\x00a\x00t\x00i\x00c\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00p\x00r\x00o\x00x\x00i\x00m\x00a\x00-\x00n\x00o\x00v\x00a\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00.\x00w\x00o\x00f\x00f\x002' @ 7126 : 1 .. (end); will stop at (end)

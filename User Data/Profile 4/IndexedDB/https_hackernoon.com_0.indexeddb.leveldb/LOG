@@ -1,0 +1,15 @@
+2021/04/15-18:27:30.478 3b0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/15-18:27:30.479 3b0 Recovering log #7
+2021/04/15-18:27:30.479 3b0 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hackernoon.com_0.indexeddb.leveldb/000007.log 
+2021/04/15-18:50:52.462 291c Level-0 table #12: started
+2021/04/15-18:50:52.464 291c Level-0 table #12: 496 bytes OK
+2021/04/15-18:50:52.466 291c Delete type=0 #7
+2021/04/15-18:50:52.467 291c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/15-18:50:52.467 291c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x004\x003\x001\x000\x002\x004\x006\x007\x004' @ 79 : 1
+2021/04/15-18:50:52.467 291c Compacting 1@1 + 1@2 files
+2021/04/15-18:50:52.469 291c Generated table #13@1: 18 keys, 554 bytes
+2021/04/15-18:50:52.469 291c Compacted 1@1 + 1@2 files => 554 bytes
+2021/04/15-18:50:52.471 291c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/15-18:50:52.471 291c Delete type=2 #9
+2021/04/15-18:50:52.471 291c Delete type=2 #12
+2021/04/15-18:50:52.472 291c Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x004\x003\x001\x000\x002\x004\x006\x007\x004' @ 79 : 1 .. (end); will stop at (end)

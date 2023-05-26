@@ -1,0 +1,15 @@
+2020/11/26-08:42:22.062 4258 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_curnonwatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/26-08:42:22.063 4258 Recovering log #4
+2020/11/26-08:42:22.063 4258 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_curnonwatch.com_0.indexeddb.leveldb/000004.log 
+2020/11/26-08:43:07.298 39d4 Level-0 table #8: started
+2020/11/26-08:43:07.300 39d4 Level-0 table #8: 27441 bytes OK
+2020/11/26-08:43:07.302 39d4 Delete type=0 #4
+2020/11/26-08:43:07.302 39d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/26-08:43:07.302 39d4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02\x02\x01\x0c\x00r\x00e\x00q\x00u\x00e\x00s\x00t\x00v\x00a\x00u\x00l\x00t' @ 3344 : 1
+2020/11/26-08:43:07.302 39d4 Compacting 1@1 + 1@2 files
+2020/11/26-08:43:07.306 39d4 Generated table #9@1: 313 keys, 30099 bytes
+2020/11/26-08:43:07.306 39d4 Compacted 1@1 + 1@2 files => 30099 bytes
+2020/11/26-08:43:07.307 39d4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/26-08:43:07.308 39d4 Delete type=2 #5
+2020/11/26-08:43:07.308 39d4 Delete type=2 #8
+2020/11/26-08:43:07.308 39d4 Manual compaction at level-1 from '\x00\x02\x02\x02\x01\x0c\x00r\x00e\x00q\x00u\x00e\x00s\x00t\x00v\x00a\x00u\x00l\x00t' @ 3344 : 1 .. (end); will stop at (end)

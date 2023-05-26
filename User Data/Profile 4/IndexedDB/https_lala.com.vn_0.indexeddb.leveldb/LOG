@@ -1,0 +1,15 @@
+2021/01/24-00:09:20.316 3a24 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_lala.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/24-00:09:20.316 3a24 Recovering log #4
+2021/01/24-00:09:20.317 3a24 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_lala.com.vn_0.indexeddb.leveldb/000004.log 
+2021/01/24-00:10:33.877 3204 Level-0 table #8: started
+2021/01/24-00:10:33.878 3204 Level-0 table #8: 3194 bytes OK
+2021/01/24-00:10:33.881 3204 Delete type=0 #4
+2021/01/24-00:10:33.881 3204 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/24-00:10:33.881 3204 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 422 : 1
+2021/01/24-00:10:33.881 3204 Compacting 1@1 + 1@2 files
+2021/01/24-00:10:33.883 3204 Generated table #9@1: 94 keys, 2126 bytes
+2021/01/24-00:10:33.883 3204 Compacted 1@1 + 1@2 files => 2126 bytes
+2021/01/24-00:10:33.885 3204 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/24-00:10:33.885 3204 Delete type=2 #5
+2021/01/24-00:10:33.885 3204 Delete type=2 #8
+2021/01/24-00:10:33.885 3204 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 422 : 1 .. (end); will stop at (end)

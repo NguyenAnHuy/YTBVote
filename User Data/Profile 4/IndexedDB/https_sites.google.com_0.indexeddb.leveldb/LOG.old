@@ -1,0 +1,15 @@
+2020/12/29-02:18:42.637 6adc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_sites.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/29-02:18:42.637 6adc Recovering log #11
+2020/12/29-02:18:42.637 6adc Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_sites.google.com_0.indexeddb.leveldb/000011.log 
+2020/12/29-02:18:56.120 7db8 Level-0 table #16: started
+2020/12/29-02:18:56.123 7db8 Level-0 table #16: 623256 bytes OK
+2020/12/29-02:18:56.125 7db8 Delete type=0 #11
+2020/12/29-02:18:56.125 7db8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/29-02:18:56.125 7db8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01%\x005\x000\x002\x004\x009\x000\x007\x00f\x00d\x00b\x00e\x005\x00f\x002\x007\x009\x001\x00f\x000\x006\x002\x00d\x00c\x006\x00d\x000\x00b\x00e\x000\x00e\x001\x00e\x00_\x006\x00:\x000\x000' @ 884 : 1
+2020/12/29-02:18:56.125 7db8 Compacting 1@1 + 1@2 files
+2020/12/29-02:18:56.127 7db8 Generated table #17@1: 67 keys, 78880 bytes
+2020/12/29-02:18:56.128 7db8 Compacted 1@1 + 1@2 files => 78880 bytes
+2020/12/29-02:18:56.128 7db8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/29-02:18:56.129 7db8 Delete type=2 #13
+2020/12/29-02:18:56.129 7db8 Delete type=2 #16
+2020/12/29-02:18:56.129 7db8 Manual compaction at level-1 from '\x00\x01\x03\x02\x01%\x005\x000\x002\x004\x009\x000\x007\x00f\x00d\x00b\x00e\x005\x00f\x002\x007\x009\x001\x00f\x000\x006\x002\x00d\x00c\x006\x00d\x000\x00b\x00e\x000\x00e\x001\x00e\x00_\x006\x00:\x000\x000' @ 884 : 1 .. (end); will stop at (end)

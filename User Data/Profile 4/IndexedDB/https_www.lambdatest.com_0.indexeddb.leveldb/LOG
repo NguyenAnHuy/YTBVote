@@ -1,0 +1,5 @@
+2021/04/10-09:41:59.440 2d70 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.lambdatest.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/10-09:51:12.345 2f8c Level-0 table #5: started
+2021/04/10-09:51:12.347 2f8c Level-0 table #5: 6351 bytes OK
+2021/04/10-09:51:12.349 2f8c Delete type=0 #3
+2021/04/10-09:51:12.349 2f8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

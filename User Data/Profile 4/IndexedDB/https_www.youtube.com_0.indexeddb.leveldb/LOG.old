@@ -1,0 +1,21 @@
+2021/05/13-18:38:40.028 2d1c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-18:38:40.029 2d1c Recovering log #202
+2021/05/13-18:38:40.029 2d1c Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000202.log 
+2021/05/13-18:38:41.087 2d1c Manual compaction at level-0 from '\x00\x9c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-18:38:41.087 2d1c Manual compaction at level-1 from '\x00\x9c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-18:38:48.862 8eb0 Manual compaction at level-0 from '\x00\x9d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-18:39:30.862 6358 Manual compaction at level-0 from '\x00\x9e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x9f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-18:40:30.189 7c28 Manual compaction at level-0 from '\x00\x9f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa0\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-19:11:56.014 6844 Manual compaction at level-0 from '\x00\xa0\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xa1\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-20:28:01.377 108 Level-0 table #207: started
+2021/05/13-20:28:01.393 108 Level-0 table #207: 549868 bytes OK
+2021/05/13-20:28:01.394 108 Delete type=0 #202
+2021/05/13-20:28:01.395 108 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/13-20:28:01.395 108 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\xa1\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00`\xef?Z\x96wB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 216822 : 1
+2021/05/13-20:28:01.395 108 Compacting 1@1 + 1@2 files
+2021/05/13-20:28:01.399 108 Generated table #208@1: 298 keys, 21900 bytes
+2021/05/13-20:28:01.399 108 Compacted 1@1 + 1@2 files => 21900 bytes
+2021/05/13-20:28:01.400 108 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-20:28:01.400 108 Delete type=2 #204
+2021/05/13-20:28:01.401 108 Delete type=2 #207
+2021/05/13-20:28:01.401 108 Manual compaction at level-1 from '\x00\xa1\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00`\xef?Z\x96wB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 216822 : 1 .. (end); will stop at (end)

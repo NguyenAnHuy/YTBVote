@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "consentire in incognito"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Aggiorna automaticamente la pagina con la potente funzione di monitoraggio della pagina"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Page Monitor"
+   },
+   "ast": {
+      "message": "auto start timer"
+   },
+   "ast_msg1": {
+      "message": "Avvia automaticamente l'aggiornamento all'apertura di questi URL\nUn URL per riga, ad es."
+   },
+   "ast_msg2": {
+      "message": "L'avvio automatico aggiorna questi URL al riavvio del browser"
+   },
+   "ast_msg3": {
+      "message": "Avvio automatico dell'aggiornamento all'apertura di uno di questi URL"
+   },
+   "ast_specific_time": {
+      "message": "selezionare l'ora specifica"
+   },
+   "auto_start": {
+      "message": "auto start"
+   },
+   "auto_starturl": {
+      "message": "auto start url"
+   },
+   "cancel": {
+      "message": "Annulla"
+   },
+   "cancel_timer": {
+      "message": "Annulla timer"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "in"
+   },
+   "contribution": {
+      "message": "Contributo"
+   },
+   "copyright": {
+      "message": "Tutti i diritti d'autore sono riservati"
+   },
+   "countdown_mode": {
+      "message": "Modalità conto alla rovescia (ad esempio, 2 ore 1 minuto e 30 secondi)"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "default_target_input": {
+      "message": "Testo di destinazione predefinito o (Regex)"
+   },
+   "default_target_text": {
+      "message": "Testo di destinazione predefinito"
+   },
+   "default_timerinterval": {
+      "message": "Intervallo di tempo predefinito"
+   },
+   "dismiss": {
+      "message": "Respingere"
+   },
+   "email_alert": {
+      "message": "Avvisi e-mail"
+   },
+   "enable_ri": {
+      "message": "Abilita intervallo casuale"
+   },
+   "enable_tf": {
+      "message": "Abilita questa funzione"
+   },
+   "feature_request": {
+      "message": "Richieste di funzionalità"
+   },
+   "found": {
+      "message": "Trovato"
+   },
+   "general_settings": {
+      "message": "Impostazioni generali"
+   },
+   "help_center": {
+      "message": "Centro assistenza"
+   },
+   "home": {
+      "message": "casa"
+   },
+   "hour": {
+      "message": "ora"
+   },
+   "howto": {
+      "message": "Come"
+   },
+   "lost": {
+      "message": "Perduto"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "minuto"
+   },
+   "minutes": {
+      "message": "minuti"
+   },
+   "never_playsound": {
+      "message": "Non riprodurre mai il suono"
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus ha $ 2 $ $ il tuo testo di destinazione",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "il testo di destinazione!"
+   },
+   "open_tab": {
+      "message": "Apri link in una nuova scheda"
+   },
+   "options": {
+      "message": "Opzioni"
+   },
+   "other_products": {
+      "message": "Altri prodotti"
+   },
+   "page_monitor": {
+      "message": "Page Monitor"
+   },
+   "pdpage": {
+      "message": "pagina predefinita"
+   },
+   "pdpage_input1": {
+      "message": "esempio: www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "Aggiorna questo URL invece dell'URL della scheda corrente"
+   },
+   "play_for": {
+      "message": "Gioca per"
+   },
+   "play_onlyonce": {
+      "message": "Gioca solo una volta"
+   },
+   "play_sound": {
+      "message": "Riprodurre l'audio"
+   },
+   "playsound_candidate": {
+      "message": "Riproduci suono candidato 1 (1 secondo)"
+   },
+   "playsound_candidate2": {
+      "message": "Riproduci suono candidato 2 (6 secondi)"
+   },
+   "playsound_msg1": {
+      "message": "Riproduci suono dall'URL"
+   },
+   "pm_input1": {
+      "message": "esempio: venduto | terminato | scaduto"
+   },
+   "pm_msg1": {
+      "message": "Notifica popup una volta che \u003Cb> $action$ \u003C/b> questo testo (o regex) nella pagina",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "Riproduci finché non clicco sulla casella di notifica"
+   },
+   "pm_msgclick": {
+      "message": "Clic automatico sul collegamento (se il testo monitorato o regex ha un collegamento)"
+   },
+   "pmp": {
+      "message": "Pattern monitor pagina"
+   },
+   "pmp_msg1": {
+      "message": "Notifica popup una volta che \u003Cb> TROVA \u003C/b> il testo di destinazione (o regex)"
+   },
+   "pmp_msg2": {
+      "message": "Notifica popup una volta che \u003Cb> PERDE \u003C/b> il testo di destinazione (o regex)"
+   },
+   "predefined_text": {
+      "message": "testo predefinito"
+   },
+   "predefined_url": {
+      "message": "URL predefinito"
+   },
+   "random_interval": {
+      "message": "Intervallo casuale"
+   },
+   "rpp": {
+      "message": "aggiorna la pagina predefinita"
+   },
+   "rpp_msg1": {
+      "message": "Aggiorna questo URL invece dell'URL della scheda corrente (ad es. Www.google.com)"
+   },
+   "rpt": {
+      "message": "Aggiorna testo predefinito"
+   },
+   "rpt_input1": {
+      "message": "Avvia automaticamente l'aggiornamento se viene rilevato uno di questi testi (ad es. Venduto | fine | nuovo)"
+   },
+   "save": {
+      "message": "Salva"
+   },
+   "seconds": {
+      "message": "secondi"
+   },
+   "select_countdown": {
+      "message": "selezionare il conto alla rovescia"
+   },
+   "settings": {
+      "message": "impostazioni"
+   },
+   "show_tab": {
+      "message": "Mostra scheda"
+   },
+   "sound_length": {
+      "message": "Durata del suono"
+   },
+   "specific_timemode": {
+      "message": "Specific Time Mode (e.g., 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Inizio"
+   },
+   "start_timer": {
+      "message": "ore di inizio"
+   },
+   "stop": {
+      "message": "Fermare"
+   },
+   "stop_sound": {
+      "message": "Stop Sound"
+   },
+   "success": {
+      "message": "Impostazioni salvate con successo"
+   },
+   "test_play": {
+      "message": "prova di gioco"
+   },
+   "time": {
+      "message": "tempo"
+   },
+   "time_interval": {
+      "message": "Intervallo di tempo"
+   },
+   "timer_mode": {
+      "message": "modalità timer"
+   },
+   "use_default": {
+      "message": "Usa predefinito"
+   },
+   "volume": {
+      "message": "volume"
+   }
+}

@@ -1,0 +1,8 @@
+2021/01/09-19:04:44.796 2930 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hellobacsi.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/09-19:04:44.796 2930 Recovering log #7
+2021/01/09-19:04:44.796 2930 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hellobacsi.com_0.indexeddb.leveldb/000007.log 
+2021/01/09-19:08:43.286 3578 Level-0 table #12: started
+2021/01/09-19:08:43.286 3578 Level-0 table #12: 0 bytes OK
+2021/01/09-19:08:43.289 3578 Delete type=0 #7
+2021/01/09-19:08:43.289 3578 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/09-19:08:43.289 3578 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

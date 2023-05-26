@@ -1,0 +1,6 @@
+2021/06/08-23:24:58.464 183c Reusing MANIFEST D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 10\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/08-23:24:58.464 183c Recovering log #78
+2021/06/08-23:24:58.464 183c Reusing old log D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 10\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000078.log 
+2021/06/08-23:24:58.464 183c Delete type=2 #77
+2021/06/08-23:25:00.444 17bc Manual compaction at level-0 from '\x00L\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00M\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/08-23:25:00.572 21b0 Manual compaction at level-0 from '\x00K\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00L\x00\x00\x00' @ 0 : 0; will stop at (end)

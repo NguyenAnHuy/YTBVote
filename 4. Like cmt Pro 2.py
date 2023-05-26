@@ -49,6 +49,10 @@ from tkinter import *
 # Thư viện khai báo combobox
 from tkinter import ttk
 import random
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+
+
 
 # Thư viện hàm lấy đường dẫn thư mục hiện hành
 # import os
@@ -67,15 +71,20 @@ def program(key):							# Biến key nằm trong hàm Action_cmt(driver,key) mà
 		try:
 			profile_number='Profile'+' '+str(i)
 			print(profile_number)
-			chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+			# chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+			ser=Service(ChromeDriverManager().install())		# hàm đưa ra vị trí file chromedriver.exe
+
 			chrome_options = webdriver.ChromeOptions()
+			chrome_options.add_experimental_option("detach", True)	# Giữ trình duyệt ko bị đóng
+
 
 			#chrome_options.add_argument(r"--user-data-dir=D:\An Huy\My Project Offline\YTB comunity\User Data")
 			chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
 			chrome_options.add_argument(r'--profile-directory='+profile_number)
 			#Chế độ chạy ẩn_ ko thấy like được
 			#chrome_options.headless = True
-			driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
+			# driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)	# executable đã bị loại bỏ
+			driver = webdriver.Chrome(service=ser, options=chrome_options)
 
 			sleep(1)
 			current_url = etr_link_cmt.get()
@@ -332,14 +341,20 @@ def like_nhieu_cmt(driver,key,y):
 #------------------------------------------------------------------------------------------------
 def open_browser():
 	try:
-		chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+		# chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+		ser=Service(ChromeDriverManager().install())		# hàm đưa ra vị trí file chromedriver.exe
+
 		chrome_options = webdriver.ChromeOptions()
+		chrome_options.add_experimental_option("detach", True)	# Giữ trình duyệt ko bị đóng
+
 		#chrome_options.add_argument('user-data-dir=C:\\Users\\Huy\\AppData\\Local\\Google\\Chrome\\User Data') # ko thêm r phía trước được. Ko chọn đc profile, mở profile gần nhất
 		# prefs = {"profile.default_content_setting_values.notifications" : 2, "profile.default_content_setting_values.images" : 2}	#Gộp lại để vừa tắt thông báo vừa tắt ảnh
 		# chrome_options.add_experimental_option("prefs",prefs)
 		chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
 		chrome_options.add_argument(r'--profile-directory='+cbx_test_2.get())
-		driver2 = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
+		# driver2 = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)		#executable đã bị loại bỏ
+		driver2 = webdriver.Chrome(service=ser, options=chrome_options)
+
 		sleep(1)
 		driver2.get("https://www.youtube.com/")
 		time_value=int(lbl_time_value_2.get())

@@ -1,0 +1,8 @@
+2021/03/04-13:00:18.909 3364 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.hanoicomputer.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/04-13:00:18.909 3364 Recovering log #590
+2021/03/04-13:00:18.909 3364 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.hanoicomputer.vn_0.indexeddb.leveldb/000590.log 
+2021/03/04-13:00:22.760 22d4 Level-0 table #594: started
+2021/03/04-13:00:22.760 22d4 Level-0 table #594: 0 bytes OK
+2021/03/04-13:00:22.761 22d4 Delete type=0 #590
+2021/03/04-13:00:22.762 22d4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/04-13:00:22.762 22d4 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

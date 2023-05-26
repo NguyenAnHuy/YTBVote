@@ -1,0 +1,5 @@
+2020/11/17-01:44:17.766 7e78 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_noithatmyhouse.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/17-01:44:39.034 a188 Level-0 table #5: started
+2020/11/17-01:44:39.036 a188 Level-0 table #5: 6079 bytes OK
+2020/11/17-01:44:39.038 a188 Delete type=0 #3
+2020/11/17-01:44:39.038 a188 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

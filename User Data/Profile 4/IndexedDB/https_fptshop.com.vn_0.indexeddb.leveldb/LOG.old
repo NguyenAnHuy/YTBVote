@@ -1,0 +1,15 @@
+2021/03/01-18:16:02.223 3318 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fptshop.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/01-18:16:02.223 3318 Recovering log #11
+2021/03/01-18:16:02.224 3318 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fptshop.com.vn_0.indexeddb.leveldb/000011.log 
+2021/03/01-18:29:48.763 36bc Level-0 table #16: started
+2021/03/01-18:29:48.766 36bc Level-0 table #16: 184 bytes OK
+2021/03/01-18:29:48.768 36bc Delete type=0 #11
+2021/03/01-18:29:48.769 36bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/01-18:29:48.769 36bc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x00' @ 130 : 1
+2021/03/01-18:29:48.769 36bc Compacting 1@1 + 1@2 files
+2021/03/01-18:29:48.771 36bc Generated table #17@1: 38 keys, 1096 bytes
+2021/03/01-18:29:48.771 36bc Compacted 1@1 + 1@2 files => 1096 bytes
+2021/03/01-18:29:48.772 36bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/01-18:29:48.773 36bc Delete type=2 #13
+2021/03/01-18:29:48.773 36bc Delete type=2 #16
+2021/03/01-18:29:48.773 36bc Manual compaction at level-1 from '\x00\x00\x00\x00\x00' @ 130 : 1 .. (end); will stop at (end)

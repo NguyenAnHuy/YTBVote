@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="__MSG_chrome_language__">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.min.css">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <title data-i18n="__MSG_app_name__"></title>
+    <style type="text/css">
+    #monitorbox {
+        display: none;
+    }
+
+    #pdurlbox {
+        display: none;
+    }
+
+    #timerbox {
+        display: none;
+    }
+
+    #timerboxdate {
+        display: none;
+    }
+
+    #randombox {
+        display: none;
+    }
+    </style>
+</head>
+
+<body>
+    <!-- <header class="site-header">
+        <div class="container">
+            <nav>
+                <a href="index.php" class="menu-link">Home</a>
+            </nav>
+        </div>
+    </header> -->
+    <div class="">
+        <div class="popup">
+            <div class="popup-header" id="header">
+                <div class="logo">
+                    <h3 class="title">
+                        Auto refresh
+                        <span>Plus</span>
+                    </h3>
+                </div>
+                <div class="header-cta">
+                    <!-- <button class="btn-secondry">stop</button> -->
+                    <button class="btn-primary" id="startbtn" data-state="Start" data-i18n="__MSG_start_msg__"></button>
+                    <button style="transition: all 0.5s;" class="volume-control toolTipBottom" id="mutedBtn" data-i18n="__MSG_stop_sound__" *i18n="data-tooltip"></button>
+                    <!-- <div class="dropdown-wrap">
+                        <button class="icon-switch menu-btn" rel="menu-1"></button>
+                        <ul class="dropdown-menu" id="menu-1">
+                            <li><a href="#" class="menu-link">menu link</a></li>
+                            <li><a href="#" class="menu-link">menu link</a></li>
+                            <li><a href="#" class="menu-link">menu link</a></li>
+                            <li><a href="#" class="menu-link">menu link</a></li>
+                        </ul>
+                    </div> -->
+                    <a id="advancedOptions" class="icon-setting toolTipBottom" *i18n="data-tooltip" data-i18n="__MSG_settings__"></a>
+                </div>
+            </div>
+            <div class="popup-body">
+                <!-- SECTIO1 MAIN TIMER -->
+                <section id="timebox">
+                    <h3 class="section-title" data-i18n="__MSG_time_interval__">
+                    </h3>
+                    <div class="duration">
+                        <div class="radio-box">
+                            <div class="radio-input">
+                                <input type="radio" id="r01" name="reloadOption" value="5000">
+                                <span></span>
+                            </div>
+                            <label for="r01" class="radio-btn" data-i18n="5 __MSG_seconds__">
+                            </label>
+                        </div>
+                        <div class="radio-box">
+                            <div class="radio-input">
+                                <input type="radio" id="r02" name="reloadOption" value="10000">
+                                <span></span>
+                            </div>
+                            <label for="r02" class="radio-btn" data-i18n="10 __MSG_seconds__">
+                            </label>
+                        </div>
+                        <div class="radio-box">
+                            <div class="radio-input">
+                                <input type="radio" id="r03" name="reloadOption" value="15000">
+                                <span></span>
+                            </div>
+                            <label for="r03" class="radio-btn" data-i18n="15 __MSG_seconds__">
+                            </label>
+                        </div>
+                        <div class="radio-box">
+                            <div class="radio-input">
+                                <input type="radio" id="r04" name="reloadOption" value="300000">
+                                <span></span>
+                            </div>
+                            <label for="r04" class="radio-btn" data-i18n="5 __MSG_minutes__">
+                            </label>
+                        </div>
+                        <div class="radio-box">
+                            <div class="radio-input">
+                                <input type="radio" id="r05" name="reloadOption" value="600000">
+                                <span></span>
+                            </div>
+                            <label for="r05" class="radio-btn" data-i18n="10 __MSG_minutes__">
+                            </label>
+                        </div>
+                        <div class="radio-box">
+                            <div class="radio-input">
+                                <input type="radio" id="r06" name="reloadOption" value="900000">
+                                <span></span>
+                            </div>
+                            <label for="r06" class="radio-btn" data-i18n="15 __MSG_minutes__">
+                            </label>
+                        </div>
+                        <div class="radio-box w-100">
+                            <div class="radio-input">
+                                <input type="radio" id="r10" name="reloadOption" value="timer">
+                                <span></span>
+                            </div>
+                            <div class="radio-box w-100">                                
+                                <input type="number" id="int_timerHour" name="hour" size="1" value="0" maxlength="2">
+                                <label for="hour">Hr</label>
+                                <input id="int_timerMin" type="number" name="min" size="1" value="10" maxlength="2">
+                                <label for="min">Min</label>
+                                <input id="int_timerSec" type="number" name="sec" size="1" value="0" maxlength="2">
+                                <label for="sec">Sec</label>
+                            </div>
+                        </div>
+                        <div class="radio-box w-100">
+                            <div class="radio-input">
+                                <input type="radio" id="r08" name="reloadOption" value="custom">
+                                <span></span>
+                            </div>
+                            <input type="number" id="tcustom" value="12" size="4" name="custom">
+                            <label for="r08" class="radio-btn" data-i18n="__MSG_seconds__">
+                            </label>
+                        </div>                        
+                        <div class="random-interval" id="randombox">
+                            <div class="radio-box w-100">
+                                <div class="radio-input">
+                                    <input type="radio" id="r07" name="reloadOption" value="rand">
+                                    <span></span>
+                                </div>
+                                <label for="r07" class="radio-btn" data-i18n="__MSG_random_interval__">
+                                </label>
+                            </div>
+                            <div class="radio-box w-100 random">
+                                <div class="row-center alc">
+                                    <label for="tmin"><b data-i18n="__MSG_min__"></b></label>
+                                    <input type="number" id="tmin" value="5" size="2">
+                                    <label for="tmin" data-i18n="__MSG_seconds__"></label>
+                                </div>
+                                <div class="row-center alc">
+                                    <label for="tmax"><b data-i18n="__MSG_max__"></b></label>
+                                    <input type="number" id="tmax" value="30" size="2">
+                                    <label for="tmax" data-i18n="__MSG_seconds__"></label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Section 2 PAGE MONITOR -->
+                <section id="monitorbox">
+                    <h3 class="section-title" data-i18n="__MSG_page_monitor__">
+                    </h3>
+                    <div class="section-wrap">
+                        <div class="form-group">
+                            <label for="page-monitor" data-i18n="__MSG_pm_msg1__">
+                            </label>
+                            <input type="hidden" id="pmpattern" value="A">
+                            <div class="relative">
+                                <input type="text" id="contentid" name="inp01" value="" size="55" data-i18n="__MSG_pm_input1__">
+                                <div class="hoverCloseContainer">
+                                    <button type="button" aria-label="clear icon" class="v-icon notranslate v-icon--link theme--light"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg">
+                                            <path d="M19,6.41L17.59,5L12,10.59L6.41,5L5,6.41L10.59,12L5,17.59L6.41,19L12,13.41L17.59,19L19,17.59L13.41,12L19,6.41Z"></path>
+                                        </svg></button>
+                                </div>
+                                <div>
+                                    <button class="btn-primary mt-16" id="useDefault" data-i18n="__MSG_use_default__"></button>
+                                </div>
+                            </div>
+                            <div class="row-center" id="autoClk">
+                                <div class="check-input">
+                                    <input type="checkbox" id="pgeMntrLink">
+                                    <span></span>
+                                </div>
+                                <label class="tag-beta" for="pgeMntrLink" data-i18n="__MSG_pm_msgclick__">
+                                </label>
+                            </div>
+                            <div class="row-center">
+                                <div class="check-input">
+                                    <input type="checkbox" id="pgeMntrLinkInNewTab">
+                                    <span></span>
+                                </div>
+                                <label for="pgeMntrLinkInNewTab" data-i18n="__MSG_open_tab__">
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- These functions appears when user will enable it from the settings page -->
+                <!-- Section 3 PREDEFINED PAGE-->
+                <section id="pdurlbox">
+                    <h3 class="section-title" data-i18n="__MSG_pdpage__">
+                    </h3>
+                    <div class="section-wrap">
+                        <div class="form-group">
+                            <label for="pre-page" data-i18n="__MSG_pdpage_msg1__">
+                            </label>
+                            <input type="text" id="pdurlinp" name="pdurlinp" type="text" value="" size="55" data-i18n="__MSG_pdpage_input1__">
+                        </div>
+                    </div>
+                </section>
+                <!-- Section 4 -->
+                <section id="timerbox">
+                    <h3 class="section-title" data-i18n="__MSG_ast__">
+                    </h3>
+                    <input type="hidden" id="timermode" value="1">
+                    <div id="countdownMode" style="margin-top:10px;">
+                        <div class="section-wrap">
+                            <div class="form-group">
+                                <label for="hour" data-i18n="__MSG_select_countdown__"></label>
+                                <div class="row-center alc">
+                                    <input type="number" id="timerHour" name="hour" size="1" value="0" maxlength="2">
+                                    <label for="hour" data-i18n="__MSG_hour__"></label>
+                                    <input id="timerMin" type="number" name="min" size="1" value="10" maxlength="2">
+                                    <label for="min" data-i18n="__MSG_minutes__"></label>
+                                    <input id="timerSec" type="number" name="sec" size="1" value="0" maxlength="2">
+                                    <label for="sec" data-i18n="__MSG_seconds__"></label>
+                                </div>
+                                <button class="btn-primary mt-16" id="timerbtn" data-state="Start Timer" data-i18n="__MSG_start_timer__"></button>
+                                <!-- <button class="btn-secondry mt-16">stop timer</button> -->
+                            </div>
+                        </div>
+                </section>
+                <!-- Section 5 -->
+                <section id="timerboxdate">
+                    <h3 class="section-title" data-i18n="__MSG_ast__">
+                    </h3>
+                    <div class="section-wrap">
+                        <div class="form-group">
+                            <label for="hour" data-i18n="__MSG_ast_specific_time__"></label>
+                            <div class="row-center alc">
+                                <label for="date" data-i18n="__MSG_date__:"></label>
+                                <input type="date" name="time" id="dateInp">
+                                <span class="placeholder">
+                                    (dd-MM-YYYY, e.g., 21-09-2020)
+                                </span>
+                            </div>
+                            <div class="row-center alc">
+                                <label for="time" data-i18n="__MSG_time__:"></label>
+                                <input type="time" id="timeInp" name="time">
+                                <span class="placeholder">
+                                    (HH:mm:ss, e.g., 23:10:01)
+                                </span>
+                            </div>
+                            <button class="btn-primary mt-16" id="timerbtn2" data-state="Start Timer" data-i18n="__MSG_start_timer__"></button>
+                            <!-- <button class="btn-secondry mt-16">stop timer</button> -->
+                        </div>
+                    </div>
+                </section>
+                <!-- These functions appears when user will enable it from the settings page -->
+            </div>
+            <div class="popup-footer">
+                <ul class="popup-footer-links">
+                    <li>
+                        <a href="https://autorefresh.io/wishform/" target="_blank">
+                            <span class="icon-feature"></span>
+                            <span class="link-text" data-i18n="__MSG_feature_request__"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://autorefresh.io/help/" target="_blank">
+                            <span class="icon-contribution"></span>
+                            <span class="link-text" data-i18n="__MSG_help_center__"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://autorefresh.io/products/" target="_blank">
+                            <span class="icon-op"></span>
+                            <span class="link-text" data-i18n="__MSG_other_products__"></span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="js/i18n.js"></script>
+    <script src="js/jquery-1.5.2.min.js" type="text/javascript"></script>
+    <script src="js/popup.js"></script>
+    <script src="js/ui.page.js"></script>
+</body>
+
+</html>

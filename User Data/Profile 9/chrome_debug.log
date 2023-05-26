@@ -1,0 +1,7 @@
+[18560:14924:0513/104232.573:ERROR:device_event_log_impl.cc(214)] [10:42:32.573] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+[18560:14924:0513/104232.575:ERROR:device_event_log_impl.cc(214)] [10:42:32.575] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[18560:14924:0513/104233.179:INFO:CONSOLE(5551)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (5551)
+[18560:14924:0513/104233.574:INFO:CONSOLE(3718)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/cae8a583/jsbin/desktop_polymer.vflset/desktop_polymer.js (3718)
+[18560:14924:0513/104233.946:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[18560:14924:0513/104235.249:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

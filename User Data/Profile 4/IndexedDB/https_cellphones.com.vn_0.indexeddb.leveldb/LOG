@@ -1,0 +1,15 @@
+2021/03/01-20:00:08.305 42fc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_cellphones.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/01-20:00:08.306 42fc Recovering log #7
+2021/03/01-20:00:08.306 42fc Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_cellphones.com.vn_0.indexeddb.leveldb/000007.log 
+2021/03/01-20:45:32.838 44cc Level-0 table #12: started
+2021/03/01-20:45:32.840 44cc Level-0 table #12: 203 bytes OK
+2021/03/01-20:45:32.842 44cc Delete type=0 #7
+2021/03/01-20:45:32.842 44cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/01-20:45:32.843 44cc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 150 : 1
+2021/03/01-20:45:32.843 44cc Compacting 1@1 + 1@2 files
+2021/03/01-20:45:32.844 44cc Generated table #13@1: 38 keys, 1112 bytes
+2021/03/01-20:45:32.844 44cc Compacted 1@1 + 1@2 files => 1112 bytes
+2021/03/01-20:45:32.846 44cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/01-20:45:32.846 44cc Delete type=2 #9
+2021/03/01-20:45:32.846 44cc Delete type=2 #12
+2021/03/01-20:45:32.847 44cc Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 150 : 1 .. (end); will stop at (end)

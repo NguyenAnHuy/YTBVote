@@ -1,0 +1,6 @@
+2020/11/20-02:45:59.539 61ac Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\http_www.monngon.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/20-02:46:07.798 5310 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/20-02:46:09.800 61ac Level-0 table #5: started
+2020/11/20-02:46:09.804 61ac Level-0 table #5: 582 bytes OK
+2020/11/20-02:46:09.806 61ac Delete type=0 #3
+2020/11/20-02:46:09.807 61ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)

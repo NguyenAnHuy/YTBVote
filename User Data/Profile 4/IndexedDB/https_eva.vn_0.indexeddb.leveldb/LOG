@@ -1,0 +1,15 @@
+2021/03/23-19:30:50.446 654c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_eva.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/23-19:30:50.447 654c Recovering log #79
+2021/03/23-19:30:50.447 654c Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_eva.vn_0.indexeddb.leveldb/000079.log 
+2021/03/23-19:30:53.522 36ec Level-0 table #84: started
+2021/03/23-19:30:53.532 36ec Level-0 table #84: 513 bytes OK
+2021/03/23-19:30:53.533 36ec Delete type=0 #79
+2021/03/23-19:30:53.533 36ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/23-19:30:53.534 36ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0d\x00p\x00r\x00o\x00f\x00i\x00l\x00e\x002\x004\x00h\x00U\x00i\x00d' @ 351 : 1
+2021/03/23-19:30:53.534 36ec Compacting 1@1 + 1@2 files
+2021/03/23-19:30:53.535 36ec Generated table #85@1: 41 keys, 884 bytes
+2021/03/23-19:30:53.535 36ec Compacted 1@1 + 1@2 files => 884 bytes
+2021/03/23-19:30:53.536 36ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/23-19:30:53.537 36ec Delete type=2 #81
+2021/03/23-19:30:53.537 36ec Delete type=2 #84
+2021/03/23-19:30:53.537 36ec Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0d\x00p\x00r\x00o\x00f\x00i\x00l\x00e\x002\x004\x00h\x00U\x00i\x00d' @ 351 : 1 .. (end); will stop at (end)

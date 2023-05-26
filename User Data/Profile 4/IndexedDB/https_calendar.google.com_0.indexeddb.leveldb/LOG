@@ -1,0 +1,5 @@
+2020/12/01-18:52:49.740 2480 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-18:52:55.589 2480 Level-0 table #5: started
+2020/12/01-18:52:55.591 2480 Level-0 table #5: 1287 bytes OK
+2020/12/01-18:52:55.593 2480 Delete type=0 #3
+2020/12/01-18:52:55.593 2480 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

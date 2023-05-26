@@ -1,0 +1,46 @@
+[20048:19196:0608/232456.859:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-110282171688648001044
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-113068371514999843647
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-102487736390472936778
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-104821273670054256325
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-103960209376055748453
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-114434955773411216337
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105611391623701481089
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-115859955686468220400
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105069142997066486787
+[20048:19196:0608/232456.860:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-108903026584396039577
+[20048:2284:0608/232457.048:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/custom_background_image?url= (0)
+[20048:2284:0608/232457.185:ERROR:device_event_log_impl.cc(214)] [23:24:57.186] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+[20048:2284:0608/232457.445:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/one-google-bar?paramsencoded= (0)
+[20048:2284:0608/232459.012:INFO:CONSOLE(3758)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/338c6237/jsbin/desktop_polymer.vflset/desktop_polymer.js (3758)
+[20048:2284:0608/232503.262:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+[20048:19196:0608/232504.467:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-118391561934931043730
+[20048:19196:0608/232504.467:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-100310794168988221304
+[20048:19196:0608/232504.467:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-108392367814816972630
+[20048:19196:0608/232504.467:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-106442627685461444021
+[20048:19196:0608/232504.467:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-102146731446319394763
+[20048:19196:0608/232504.468:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-104823994199098817010
+[20048:19196:0608/232504.468:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-116591576482329268897
+[20048:19196:0608/232504.468:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-105363505741522163253
+[20048:19196:0608/232504.468:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-111185992369417121695
+[20048:19196:0608/232504.468:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-112469986704517798039
+[20048:2284:0608/232504.598:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/custom_background_image?url= (0)
+[20048:2284:0608/232505.005:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/one-google-bar?paramsencoded= (0)
+[20048:2284:0608/232508.825:INFO:CONSOLE(3758)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/338c6237/jsbin/desktop_polymer.vflset/desktop_polymer.js (3758)
+[20048:2284:0608/232512.030:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dvi%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=vi&ec=65620 (0)
+[20048:2284:0608/232512.072:ERROR:device_event_log_impl.cc(214)] [23:25:12.072] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+[20048:2284:0608/232512.264:INFO:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=-1257555735&timestamp=1623169512081 (0)
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-115691791583767639909
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-113102116632175760606
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-117323599478127710993
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-114777119342093535079
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-110108065968886948058
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-107607384075599787411
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-104678077740839634129
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-109075388788944651860
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-102333873127035686884
+[20048:19196:0608/232524.818:ERROR:token_service_table.cc(140)] Failed to decrypt token for service AccountId-110998889580519913970
+[20048:2284:0608/232524.949:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/custom_background_image?url= (0)
+[20048:2284:0608/232525.349:WARNING:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: chrome-untrusted://new-tab-page/one-google-bar?paramsencoded= (0)
+[20048:2284:0608/232530.487:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

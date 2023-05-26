@@ -1,0 +1,5 @@
+2021/05/13-15:29:40.816 7bf8 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 5\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-15:29:40.817 7bf8 Recovering log #14
+2021/05/13-15:29:40.817 7bf8 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 5\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2021/05/13-15:29:41.614 58f8 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-15:29:41.614 58f8 Manual compaction at level-1 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

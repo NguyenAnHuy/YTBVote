@@ -1,0 +1,15 @@
+2021/02/07-07:48:28.398 8e30 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_kimlongcenter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/07-07:48:28.398 8e30 Recovering log #7
+2021/02/07-07:48:28.399 8e30 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_kimlongcenter.com_0.indexeddb.leveldb/000007.log 
+2021/02/07-07:51:59.819 6c88 Level-0 table #12: started
+2021/02/07-07:51:59.821 6c88 Level-0 table #12: 3067 bytes OK
+2021/02/07-07:51:59.823 6c88 Delete type=0 #7
+2021/02/07-07:51:59.823 6c88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/07-07:51:59.823 6c88 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 567 : 1
+2021/02/07-07:51:59.824 6c88 Compacting 1@1 + 1@2 files
+2021/02/07-07:51:59.825 6c88 Generated table #13@1: 96 keys, 2135 bytes
+2021/02/07-07:51:59.825 6c88 Compacted 1@1 + 1@2 files => 2135 bytes
+2021/02/07-07:51:59.826 6c88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/07-07:51:59.826 6c88 Delete type=2 #9
+2021/02/07-07:51:59.826 6c88 Delete type=2 #12
+2021/02/07-07:51:59.827 6c88 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 567 : 1 .. (end); will stop at (end)

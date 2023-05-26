@@ -1,0 +1,5 @@
+2020/12/25-04:45:05.064 c144 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.playzone.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/25-05:06:55.500 beb0 Level-0 table #5: started
+2020/12/25-05:06:55.502 beb0 Level-0 table #5: 5778 bytes OK
+2020/12/25-05:06:55.504 beb0 Delete type=0 #3
+2020/12/25-05:06:55.504 beb0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2021/01/15-01:20:12.068 3c54 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_vozforums.info_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/15-01:20:12.069 3c54 Recovering log #4
+2021/01/15-01:20:12.069 3c54 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_vozforums.info_0.indexeddb.leveldb/000004.log 
+2021/01/15-01:32:48.058 5b24 Level-0 table #8: started
+2021/01/15-01:32:48.067 5b24 Level-0 table #8: 1408 bytes OK
+2021/01/15-01:32:48.069 5b24 Delete type=0 #4
+2021/01/15-01:32:48.069 5b24 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/15-01:32:48.069 5b24 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x009\x008\x007\x009\x006\x008\x008\x005\x005\x007\x002\x00:\x00w\x00e\x00b\x00:\x004\x001\x00c\x00e\x00b\x00b\x006\x00d\x00a\x007\x001\x00f\x005\x00a\x008\x001\x00a\x006\x008\x006\x001\x001' @ 73 : 1
+2021/01/15-01:32:48.070 5b24 Compacting 1@1 + 1@2 files
+2021/01/15-01:32:48.071 5b24 Generated table #9@1: 19 keys, 1264 bytes
+2021/01/15-01:32:48.071 5b24 Compacted 1@1 + 1@2 files => 1264 bytes
+2021/01/15-01:32:48.073 5b24 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/15-01:32:48.073 5b24 Delete type=2 #5
+2021/01/15-01:32:48.073 5b24 Delete type=2 #8
+2021/01/15-01:32:48.074 5b24 Manual compaction at level-1 from '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x009\x008\x007\x009\x006\x008\x008\x005\x005\x007\x002\x00:\x00w\x00e\x00b\x00:\x004\x001\x00c\x00e\x00b\x00b\x006\x00d\x00a\x007\x001\x00f\x005\x00a\x008\x001\x00a\x006\x008\x006\x001\x001' @ 73 : 1 .. (end); will stop at (end)

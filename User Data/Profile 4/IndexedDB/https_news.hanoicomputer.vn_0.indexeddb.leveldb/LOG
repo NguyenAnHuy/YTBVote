@@ -1,0 +1,16 @@
+2021/03/03-19:25:21.547 1804 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_news.hanoicomputer.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/03-19:25:21.547 1804 Recovering log #6
+2021/03/03-19:25:21.547 1804 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_news.hanoicomputer.vn_0.indexeddb.leveldb/000006.log 
+2021/03/03-19:25:29.641 1804 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/03/03-19:25:31.651 22ec Level-0 table #11: started
+2021/03/03-19:25:31.653 22ec Level-0 table #11: 602 bytes OK
+2021/03/03-19:25:31.655 22ec Delete type=0 #6
+2021/03/03-19:25:31.655 22ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/03-19:25:31.655 22ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\x05' @ 28 : 1
+2021/03/03-19:25:31.655 22ec Compacting 1@1 + 1@2 files
+2021/03/03-19:25:31.658 22ec Generated table #12@1: 5 keys, 237 bytes
+2021/03/03-19:25:31.658 22ec Compacted 1@1 + 1@2 files => 237 bytes
+2021/03/03-19:25:31.660 22ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/03-19:25:31.660 22ec Delete type=2 #8
+2021/03/03-19:25:31.660 22ec Delete type=2 #11
+2021/03/03-19:25:31.660 22ec Manual compaction at level-1 from '\x00\x02\x00\x00\x05' @ 28 : 1 .. (end); will stop at (end)

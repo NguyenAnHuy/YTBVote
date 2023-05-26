@@ -1,0 +1,15 @@
+2021/05/10-12:37:51.055 55c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_tinhte.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/10-12:37:51.055 55c Recovering log #271
+2021/05/10-12:37:51.056 55c Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_tinhte.vn_0.indexeddb.leveldb/000271.log 
+2021/05/10-13:46:58.229 3714 Level-0 table #276: started
+2021/05/10-13:46:58.231 3714 Level-0 table #276: 3948 bytes OK
+2021/05/10-13:46:58.232 3714 Delete type=0 #271
+2021/05/10-13:46:58.233 3714 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/10-13:46:58.233 3714 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x006\x000\x003\x002\x005\x000\x009\x009\x002\x009\x001\x00:\x00w\x00e\x00b\x00:\x00d\x00c\x001\x00c\x00f\x00c\x007\x007\x004\x00a\x00b\x008\x00b\x006\x005\x00a\x004\x00a\x00e\x005\x00b\x00e' @ 5874 : 1
+2021/05/10-13:46:58.233 3714 Compacting 1@1 + 1@2 files
+2021/05/10-13:46:58.235 3714 Generated table #277@1: 20 keys, 1244 bytes
+2021/05/10-13:46:58.235 3714 Compacted 1@1 + 1@2 files => 1244 bytes
+2021/05/10-13:46:58.236 3714 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/10-13:46:58.237 3714 Delete type=2 #273
+2021/05/10-13:46:58.237 3714 Delete type=2 #276
+2021/05/10-13:46:58.237 3714 Manual compaction at level-1 from '\x00\x01\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x006\x000\x003\x002\x005\x000\x009\x009\x002\x009\x001\x00:\x00w\x00e\x00b\x00:\x00d\x00c\x001\x00c\x00f\x00c\x007\x007\x004\x00a\x00b\x008\x00b\x006\x005\x00a\x004\x00a\x00e\x005\x00b\x00e' @ 5874 : 1 .. (end); will stop at (end)

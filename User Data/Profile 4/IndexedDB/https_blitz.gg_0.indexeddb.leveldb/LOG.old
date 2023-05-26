@@ -1,0 +1,15 @@
+2021/04/27-16:48:05.034 2bfc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_blitz.gg_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/27-16:48:05.034 2bfc Recovering log #11
+2021/04/27-16:48:05.035 2bfc Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_blitz.gg_0.indexeddb.leveldb/000011.log 
+2021/04/27-16:48:12.370 1828 Level-0 table #16: started
+2021/04/27-16:48:12.372 1828 Level-0 table #16: 4609 bytes OK
+2021/04/27-16:48:12.374 1828 Delete type=0 #11
+2021/04/27-16:48:12.374 1828 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/27-16:48:12.374 1828 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x06\x02\x01\x13\x00M\x00a\x00t\x00c\x00h\x00L\x00i\x00s\x00t\x00_\x00_\x00n\x00a\x001\x00:\x00S\x00e\x00n\x00a' @ 914 : 1
+2021/04/27-16:48:12.374 1828 Compacting 1@1 + 1@2 files
+2021/04/27-16:48:12.381 1828 Generated table #17@1: 188 keys, 407690 bytes
+2021/04/27-16:48:12.381 1828 Compacted 1@1 + 1@2 files => 407690 bytes
+2021/04/27-16:48:12.382 1828 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/27-16:48:12.383 1828 Delete type=2 #13
+2021/04/27-16:48:12.383 1828 Delete type=2 #16
+2021/04/27-16:48:12.384 1828 Manual compaction at level-1 from '\x00\x02\x06\x02\x01\x13\x00M\x00a\x00t\x00c\x00h\x00L\x00i\x00s\x00t\x00_\x00_\x00n\x00a\x001\x00:\x00S\x00e\x00n\x00a' @ 914 : 1 .. (end); will stop at (end)

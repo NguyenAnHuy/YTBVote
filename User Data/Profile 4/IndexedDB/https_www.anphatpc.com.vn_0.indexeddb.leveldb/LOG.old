@@ -1,0 +1,8 @@
+2021/03/26-14:18:44.615 13ec Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.anphatpc.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/26-14:18:44.615 13ec Recovering log #1005
+2021/03/26-14:18:44.615 13ec Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.anphatpc.com.vn_0.indexeddb.leveldb/001005.log 
+2021/03/26-14:18:46.883 5790 Level-0 table #1009: started
+2021/03/26-14:18:46.883 5790 Level-0 table #1009: 0 bytes OK
+2021/03/26-14:18:46.885 5790 Delete type=0 #1005
+2021/03/26-14:18:46.885 5790 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/26-14:18:46.885 5790 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

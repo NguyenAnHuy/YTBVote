@@ -1,0 +1,7 @@
+2020/12/28-20:18:44.739 7338 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_cloud.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/28-20:18:44.739 7338 Recovering log #3
+2020/12/28-20:18:44.740 7338 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_cloud.google.com_0.indexeddb.leveldb/000003.log 
+2020/12/28-20:59:45.119 71d0 Level-0 table #5: started
+2020/12/28-20:59:45.123 71d0 Level-0 table #5: 6975 bytes OK
+2020/12/28-20:59:45.125 71d0 Delete type=0 #3
+2020/12/28-20:59:45.126 71d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

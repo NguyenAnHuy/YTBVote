@@ -1,9 +1,58 @@
+		# Like video
+		# driver.find_element_by_xpath('//*[@id="top-level-buttons"]/ytd-toggle-button-renderer[1]/a').click()
+		# sleep(3)
+
+		# Like comment top
+		# driver.find_elements_by_id('like-button')[1].click()
+		# sleep(2)
+
+		# Chọn kênh
+		# driver.find_elements_by_id('channel-title')[2].click()
+		# sleep(0.5)
+		# driver.find_element_by_id('avatar-btn').click()
+		# sleep(0.5)
+		# driver.find_elements_by_id('right-icon')[3].click()
+		# sleep(0.5)
+		# driver.find_elements_by_id('channel-title')[3].click()
+
+	# for i in range(0,10):
+		
+	# 	random_decimal_1 = random.randint(110,130)/100
+	# 	random_decimal_2 = random.randint(50,60)/100
+	# 	if i ==0:
+	# 		driver.find_element_by_id('avatar-btn').click()
+	# 		sleep(random_decimal_2)
+	# 		driver.find_elements_by_id('right-icon')[3].click()			# Click vào chuyển acc
+	# 		sleep(random_decimal_2)
+	# 		driver.find_elements_by_id('contentIcon')[i+1].click()		# Click vào từng acc
+	# 		sleep(random_decimal_1)
+	# 		driver.find_elements_by_id(key)[1].click()
+	# 		sleep(random_decimal_1)
+	# 	else:
+	# 		driver.find_element_by_id('avatar-btn').click()
+	# 		sleep(random_decimal_2)
+	# 		driver.find_elements_by_id('right-icon')[3].click()			# Click vào chuyển acc
+	# 		sleep(random_decimal_2)
+	# 		driver.find_elements_by_id('contentIcon')[i].click()		# Click vào từng acc
+	# 		sleep(random_decimal_1)
+	# 		driver.find_elements_by_id(key)[1].click()
+	# 		sleep(random_decimal_1)
+
+	# user_path=""
+	# # Trả về tên các thư mục trong Forder: Profile chrome
+	# folders_profile_chrome = os.listdir(os.getcwd() + '\\Profile chrome\\')
+	# #print(folders_profile_chrome)
+
 from selenium import webdriver
 from time import sleep
 from tkinter import *
 # Thư viện khai báo combobox
 from tkinter import ttk
 import random
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+
+
 
 # Thư viện hàm lấy đường dẫn thư mục hiện hành
 # import os
@@ -14,28 +63,39 @@ root = Tk()
 root.wm_title("❤ Mai mông to ❤")
 root.geometry('480x480+1000+350')
 
+#key=""
+#user_path=""
+
 def program(key):							# Biến key nằm trong hàm Action_cmt(driver,key) mà vẫn truyền được >.<
+	for i in range(9,15):
+		try:
+			profile_number='Profile'+' '+str(i)
+			print(profile_number)
+			# chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+			ser=Service(ChromeDriverManager().install())		# hàm đưa ra vị trí file chromedriver.exe
 
-	profile_number='Profile'+' '+str(9)
-	print(profile_number)
-	chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
-	chrome_options = webdriver.ChromeOptions()
+			chrome_options = webdriver.ChromeOptions()
+			chrome_options.add_experimental_option("detach", True)	# Giữ trình duyệt ko bị đóng
 
-	#chrome_options.add_argument(r"--user-data-dir=D:\An Huy\My Project Offline\YTB comunity\User Data")
-	chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
-	chrome_options.add_argument(r'--profile-directory='+profile_number)
-	#Chế độ chạy ẩn_ ko thấy like được
-	#chrome_options.headless = True
-	driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
 
-	sleep(1)
-	current_url = etr_link_cmt.get()
-	driver.get(current_url)
-	sleep(2)
+			#chrome_options.add_argument(r"--user-data-dir=D:\An Huy\My Project Offline\YTB comunity\User Data")
+			chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
+			chrome_options.add_argument(r'--profile-directory='+profile_number)
+			#Chế độ chạy ẩn_ ko thấy like được
+			#chrome_options.headless = True
+			# driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)	# executable đã bị loại bỏ
+			driver = webdriver.Chrome(service=ser, options=chrome_options)
 
-	Action_cmt(driver,key)
-	driver.quit()
+			sleep(1)
+			current_url = etr_link_cmt.get()
+			driver.get(current_url)
+			sleep(2)
 
+			Action_cmt(driver,key)
+			driver.quit()
+			sleep(1.5)
+		except:
+			driver.quit()
 	lbl_link_cmt.configure(text="SUCCESS!")
 
 def Action_cmt(driver,key):
@@ -134,17 +194,167 @@ def Action_cmt(driver,key):
 				sleep(2)
 				driver.find_elements_by_id(key)[1].click()
 			sleep(random_decimal_3)
+#------------------------------------------------------------------------------------------------------------------
+def program_2(key):
+	for i in range(9,15):
+		try:
+			profile_number='Profile'+' '+str(i)
+			print(profile_number)
+			chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+			chrome_options = webdriver.ChromeOptions()
 
+			#chrome_options.add_argument(r"--user-data-dir=D:\An Huy\My Project Offline\YTB comunity\User Data")
+			chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
+			chrome_options.add_argument(r'--profile-directory='+profile_number)
+			#Chế độ chạy ẩn_ ko thấy like được
+			#chrome_options.headless = True
+			driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
+
+			sleep(1)
+			current_url = etr_link_cmt_2.get()
+			driver.get(current_url)
+			sleep(2)
+
+			Action_cmt_2(driver,key)
+			driver.quit()
+			sleep(1.5)
+		except:
+			driver.quit()
+	lbl_link_cmt_2.configure(text="SUCCESS!")
+
+def Action_cmt_2(driver,key):
+	for i in range(0,10):
+		random_decimal_1 = random.randint(110,130)/100
+		random_decimal_2 = random.randint(50,60)/100
+		random_decimal_3 = random.randint(20,30)/100
+		if i ==0:
+			driver.find_element_by_id('avatar-btn').click()
+			sleep(random_decimal_3)
+			try:
+				driver.find_elements_by_id('right-icon')[3].click()			# Click vào chuyển acc
+				sleep(random_decimal_2)
+			except:
+				print("Không hiện danh sách acc, đóng trình duyệt sau 5s")
+				sleep(5)
+				driver.quit()
+			try:
+				driver.find_elements_by_id('contentIcon')[i+1].click()		# Click vào từng acc
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id('contentIcon')[i+1].click()
+			finally:
+				sleep(random_decimal_1)
+			# driver.execute_script("window.scrollTo(0, 300);")
+			y= driver.find_elements_by_id("like-button")[0].location['y']-100	# Đéo hiểu sao lại là phần tử 0
+			driver.execute_script("window.scrollTo(0, "+str(y)+");")
+			sleep(random_decimal_2)
+
+			like_nhieu_cmt(driver,key,y)
+			sleep(random_decimal_3)
+		elif i ==10:
+			driver.find_element_by_id('avatar-btn').click()
+			sleep(random_decimal_3)
+			try:
+				driver.find_elements_by_id('right-icon')[3].click()			# Click vào chuyển acc
+				sleep(random_decimal_2)
+			except:
+				print("Không hiện danh sách acc, đóng trình duyệt sau 5s")
+				sleep(5)
+				driver.quit()
+			try:
+				driver.find_elements_by_id('contentIcon')[i].click()		# Click vào từng acc
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id('contentIcon')[i].click()
+			finally:
+				sleep(random_decimal_1)
+			# driver.execute_script("window.scrollTo(0, 300);")
+			y= driver.find_elements_by_id("like-button")[0].location['y']-100	# Đéo hiểu sao lại là phần tử 0
+			driver.execute_script("window.scrollTo(0, "+str(y)+");")
+			sleep(random_decimal_2)
+
+			like_nhieu_cmt(driver,key,y)		# Tài khoản thứ 10 ko có thời gian chờ
+		else:
+			driver.find_element_by_id('avatar-btn').click()
+			sleep(random_decimal_3)
+			try:
+				driver.find_elements_by_id('right-icon')[3].click()			# Click vào chuyển acc
+				sleep(random_decimal_2)
+			except:
+				print("Không hiện danh sách acc, đóng trình duyệt sau 5s")
+				sleep(5)
+				driver.quit()
+			try:
+				driver.find_elements_by_id('contentIcon')[i].click()		# Click vào từng acc
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id('contentIcon')[i].click()
+			finally:
+				sleep(random_decimal_1)
+			# driver.execute_script("window.scrollTo(0, 300);")
+			y= driver.find_elements_by_id("like-button")[0].location['y']-100	# Đéo hiểu sao lại là phần tử 0
+			driver.execute_script("window.scrollTo(0, "+str(y)+");")
+			sleep(random_decimal_2)
+
+			like_nhieu_cmt(driver,key,y)								# Chú ý thứ tự biến phải giống hàm khai báo bên dưới
+			sleep(random_decimal_3)
+
+def like_nhieu_cmt(driver,key,y):
+	diss_number = int(cbx_test_1.get())	+ 1			# Dữ liệu đổ vào là int nhưng lấy ra vẫn là str
+	for j in range(1,diss_number + 1):
+		random_decimal_4 = random.randint(60,80)/100
+		if j == 1 and key == "like-button": 
+			try:
+				driver.find_elements_by_id(key)[j].click()
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id(key)[j].click()
+			finally:
+				sleep(random_decimal_4)
+		elif j == 1 and key == "dislike-button": 
+			pass
+		elif j ==diss_number:
+			try:
+				driver.find_elements_by_id("dislike-button")[j].click()
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id("dislike-button")[j].click()		# Lượt like cuối cùng ko có thời gian chờ
+		elif j ==5:
+			y += 350
+			driver.execute_script("window.scrollTo(0, "+str(y)+");")
+			sleep(random_decimal_4)
+			try:
+				driver.find_elements_by_id("dislike-button")[j].click()
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id("dislike-button")[j].click()
+			finally:
+				sleep(random_decimal_4)
+		else:
+			try:
+				driver.find_elements_by_id("dislike-button")[j].click()
+			except IndexError:
+				sleep(2)
+				driver.find_elements_by_id("dislike-button")[j].click()
+			finally:
+				sleep(random_decimal_4)
+#------------------------------------------------------------------------------------------------
 def open_browser():
 	try:
-		chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+		# chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+		ser=Service(ChromeDriverManager().install())		# hàm đưa ra vị trí file chromedriver.exe
+
 		chrome_options = webdriver.ChromeOptions()
+		chrome_options.add_experimental_option("detach", True)	# Giữ trình duyệt ko bị đóng
+
 		#chrome_options.add_argument('user-data-dir=C:\\Users\\Huy\\AppData\\Local\\Google\\Chrome\\User Data') # ko thêm r phía trước được. Ko chọn đc profile, mở profile gần nhất
 		# prefs = {"profile.default_content_setting_values.notifications" : 2, "profile.default_content_setting_values.images" : 2}	#Gộp lại để vừa tắt thông báo vừa tắt ảnh
 		# chrome_options.add_experimental_option("prefs",prefs)
 		chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
 		chrome_options.add_argument(r'--profile-directory='+cbx_test_2.get())
-		driver2 = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
+		# driver2 = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)		#executable đã bị loại bỏ
+		driver2 = webdriver.Chrome(service=ser, options=chrome_options)
+
 		sleep(1)
 		driver2.get("https://www.youtube.com/")
 		time_value=int(lbl_time_value_2.get())
@@ -156,6 +366,7 @@ def open_browser():
 	# 	print("Thực hiện nếu không phát sinh lỗi trong khối try")
 	# finally:
 	# 	print("Luôn thực hiện dù trong khối try có phát sinh lỗi hay không")
+
 
 def Like_cmt():
 	# global key

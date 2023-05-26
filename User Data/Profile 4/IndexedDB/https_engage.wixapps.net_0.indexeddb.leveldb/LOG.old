@@ -1,0 +1,5 @@
+2020/11/30-14:35:50.234 2d78 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_engage.wixapps.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-14:37:43.122 2d78 Level-0 table #5: started
+2020/11/30-14:37:43.124 2d78 Level-0 table #5: 6059 bytes OK
+2020/11/30-14:37:43.126 2d78 Delete type=0 #3
+2020/11/30-14:37:43.127 2d78 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

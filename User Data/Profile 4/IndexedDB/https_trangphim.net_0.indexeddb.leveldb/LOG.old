@@ -1,0 +1,16 @@
+2020/11/18-21:32:57.508 8058 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_trangphim.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-21:32:57.509 8058 Recovering log #61
+2020/11/18-21:32:57.509 8058 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_trangphim.net_0.indexeddb.leveldb/000061.log 
+2020/11/18-21:33:04.831 8058 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/11/18-21:33:06.832 8aa0 Level-0 table #67: started
+2020/11/18-21:33:06.842 8aa0 Level-0 table #67: 550 bytes OK
+2020/11/18-21:33:06.843 8aa0 Delete type=0 #61
+2020/11/18-21:33:06.844 8aa0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/18-21:33:06.844 8aa0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x00\x00\x05' @ 179 : 1
+2020/11/18-21:33:06.844 8aa0 Compacting 1@1 + 1@2 files
+2020/11/18-21:33:06.846 8aa0 Generated table #68@1: 5 keys, 237 bytes
+2020/11/18-21:33:06.846 8aa0 Compacted 1@1 + 1@2 files => 237 bytes
+2020/11/18-21:33:06.847 8aa0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/18-21:33:06.847 8aa0 Delete type=2 #64
+2020/11/18-21:33:06.847 8aa0 Delete type=2 #67
+2020/11/18-21:33:06.848 8aa0 Manual compaction at level-1 from '\x00\x0a\x00\x00\x05' @ 179 : 1 .. (end); will stop at (end)

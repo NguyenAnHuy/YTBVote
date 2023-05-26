@@ -1,0 +1,6 @@
+2021/05/13-20:47:01.979 2190 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_forum.katalon.com_0.indexeddb.leveldb since it was missing.
+2021/05/13-20:47:01.984 2190 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_forum.katalon.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-20:53:26.916 824c Level-0 table #5: started
+2021/05/13-20:53:26.919 824c Level-0 table #5: 64308 bytes OK
+2021/05/13-20:53:26.924 824c Delete type=0 #3
+2021/05/13-20:53:26.925 824c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

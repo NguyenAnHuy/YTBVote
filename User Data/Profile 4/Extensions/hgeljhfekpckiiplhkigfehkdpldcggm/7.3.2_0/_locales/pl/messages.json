@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "Zezwól w trybie incognito"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Automatyczne odświeżanie strony dzięki zaawansowanej funkcji monitorowania strony"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Automatyczne odświeżanie Plus | Monitor strony"
+   },
+   "ast": {
+      "message": "automatyczne uruchamianie timera"
+   },
+   "ast_msg1": {
+      "message": "Automatycznie rozpocznij odświeżanie po otwarciu tych adresów URL\nJeden adres URL w wierszu, np."
+   },
+   "ast_msg2": {
+      "message": "Uruchom automatycznie, odśwież te adresy URL po ponownym uruchomieniu przeglądarki"
+   },
+   "ast_msg3": {
+      "message": "Automatyczne rozpoczęcie odświeżania po otwarciu któregokolwiek z tych adresów URL"
+   },
+   "ast_specific_time": {
+      "message": "wybierz konkretny czas"
+   },
+   "auto_start": {
+      "message": "samochód się uruchamia"
+   },
+   "auto_starturl": {
+      "message": "ten początek hrabia"
+   },
+   "cancel": {
+      "message": "Anuluj"
+   },
+   "cancel_timer": {
+      "message": "Anuluj minutnik"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "w"
+   },
+   "contribution": {
+      "message": "Wkład"
+   },
+   "copyright": {
+      "message": "Wszelkie prawa autorskie zastrzeżone"
+   },
+   "countdown_mode": {
+      "message": "Tryb odliczania (np. 2 godziny 1 minuta 30 sekund)"
+   },
+   "date": {
+      "message": "data"
+   },
+   "default_target_input": {
+      "message": "Domyślny tekst docelowy lub (Regex)"
+   },
+   "default_target_text": {
+      "message": "Domyślny tekst docelowy"
+   },
+   "default_timerinterval": {
+      "message": "Domyślny przedział czasu"
+   },
+   "dismiss": {
+      "message": "Oddalić"
+   },
+   "email_alert": {
+      "message": "Alerty e-mailowe"
+   },
+   "enable_ri": {
+      "message": "Włącz losowy interwał"
+   },
+   "enable_tf": {
+      "message": "Włącz tę funkcję"
+   },
+   "feature_request": {
+      "message": "Żądania funkcji"
+   },
+   "found": {
+      "message": "Znaleziony"
+   },
+   "general_settings": {
+      "message": "Ustawienia główne"
+   },
+   "help_center": {
+      "message": "Centrum pomocy"
+   },
+   "home": {
+      "message": "Dom"
+   },
+   "hour": {
+      "message": "godzina"
+   },
+   "howto": {
+      "message": "Jak"
+   },
+   "lost": {
+      "message": "Stracony"
+   },
+   "max": {
+      "message": "Maks"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "minuta"
+   },
+   "minutes": {
+      "message": "minuty"
+   },
+   "never_playsound": {
+      "message": "Nigdy nie odtwarzaj dźwięku"
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus ma $action$ Twój tekst docelowy",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "tekst docelowy!"
+   },
+   "open_tab": {
+      "message": "Otwórz link w nowej karcie"
+   },
+   "options": {
+      "message": "Opcje"
+   },
+   "other_products": {
+      "message": "Inne produkty"
+   },
+   "page_monitor": {
+      "message": "Monitor strony"
+   },
+   "pdpage": {
+      "message": "wstępnie zdefiniowana strona"
+   },
+   "pdpage_input1": {
+      "message": "przykład: www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "Odśwież ten adres URL zamiast adresu URL bieżącej karty"
+   },
+   "play_for": {
+      "message": "Grać dla"
+   },
+   "play_onlyonce": {
+      "message": "Graj tylko raz"
+   },
+   "play_sound": {
+      "message": "Odtwórz dźwięk"
+   },
+   "playsound_candidate": {
+      "message": "Odtwórz kandydata dźwięku 1 (1 sekunda)"
+   },
+   "playsound_candidate2": {
+      "message": "Odtwórz kandydat dźwięku 2 (6 sekund)"
+   },
+   "playsound_msg1": {
+      "message": "Odtwórz dźwięk z adresu URL"
+   },
+   "pm_input1": {
+      "message": "przykład: sprzedany | zakończony | wygasł"
+   },
+   "pm_msg1": {
+      "message": "Powiadomienie wyskakujące po \u003Cb> $action$ \u003C/b> tym tekście (lub wyrażeniu regularnym) na stronie",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "Graj, dopóki nie kliknę pola powiadomienia"
+   },
+   "pm_msgclick": {
+      "message": "Automatyczne kliknięcie linku (jeśli monitorowany tekst lub wyrażenie regularne ma link)"
+   },
+   "pmp": {
+      "message": "Wzór monitora strony"
+   },
+   "pmp_msg1": {
+      "message": "Powiadomienie w wyskakującym okienku po \u003Cb> ZNALEŹCIU \u003C/b> tekstu docelowego (lub wyrażenia regularnego)"
+   },
+   "pmp_msg2": {
+      "message": "Powiadomienie w wyskakującym okienku po \u003Cb> UTRACIE \u003C/b> tekstu docelowego (lub wyrażenia regularnego)"
+   },
+   "predefined_text": {
+      "message": "predefiniowany tekst"
+   },
+   "predefined_url": {
+      "message": "predefiniowany adres URL"
+   },
+   "random_interval": {
+      "message": "Losowy interwał"
+   },
+   "rpp": {
+      "message": "odśwież wstępnie zdefiniowaną stronę"
+   },
+   "rpp_msg1": {
+      "message": "Odśwież ten adres URL zamiast adresu URL bieżącej karty (np. Www.google.com)"
+   },
+   "rpt": {
+      "message": "Odśwież wstępnie zdefiniowany tekst"
+   },
+   "rpt_input1": {
+      "message": "Automatyczne rozpoczęcie odświeżania, jeśli wykryto którykolwiek z tych tekstów (np. Sprzedany | koniec | nowy)"
+   },
+   "save": {
+      "message": "zapisać"
+   },
+   "seconds": {
+      "message": "sekundy"
+   },
+   "select_countdown": {
+      "message": "wybierz odliczanie"
+   },
+   "settings": {
+      "message": "Ustawienia"
+   },
+   "show_tab": {
+      "message": "Pokaż kartę"
+   },
+   "sound_length": {
+      "message": "Długość dźwięku"
+   },
+   "specific_timemode": {
+      "message": "Tryb określonego czasu (np. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Początek"
+   },
+   "start_timer": {
+      "message": "godziny rozpoczęcia"
+   },
+   "stop": {
+      "message": "Zatrzymać"
+   },
+   "stop_sound": {
+      "message": "Zatrzymaj dźwięk"
+   },
+   "success": {
+      "message": "Ustawienia zostały zapisane"
+   },
+   "test_play": {
+      "message": "gra testowa"
+   },
+   "time": {
+      "message": "czas"
+   },
+   "time_interval": {
+      "message": "Przedział czasowy"
+   },
+   "timer_mode": {
+      "message": "tryb timera"
+   },
+   "use_default": {
+      "message": "Zastosowanie domyślne"
+   },
+   "volume": {
+      "message": "Tom"
+   }
+}

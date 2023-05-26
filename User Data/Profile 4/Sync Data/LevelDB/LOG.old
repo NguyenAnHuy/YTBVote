@@ -1,0 +1,15 @@
+2021/05/13-21:51:13.631 714 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\Sync Data\LevelDB/MANIFEST-000001
+2021/05/13-21:51:13.632 714 Recovering log #102
+2021/05/13-21:51:13.636 714 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\Sync Data\LevelDB/000102.log 
+2021/05/13-21:51:14.630 2ba4 Level-0 table #106: started
+2021/05/13-21:51:14.634 2ba4 Level-0 table #106: 106558 bytes OK
+2021/05/13-21:51:14.636 2ba4 Delete type=0 #102
+2021/05/13-21:51:14.636 2ba4 Compacting 4@0 + 1@1 files
+2021/05/13-21:51:14.643 2ba4 Generated table #107@0: 115 keys, 11923 bytes
+2021/05/13-21:51:14.643 2ba4 Compacted 4@0 + 1@1 files => 11923 bytes
+2021/05/13-21:51:14.644 2ba4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/13-21:51:14.644 2ba4 Delete type=2 #95
+2021/05/13-21:51:14.645 2ba4 Delete type=2 #98
+2021/05/13-21:51:14.645 2ba4 Delete type=2 #100
+2021/05/13-21:51:14.645 2ba4 Delete type=2 #103
+2021/05/13-21:51:14.645 2ba4 Delete type=2 #106

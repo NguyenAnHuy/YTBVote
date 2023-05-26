@@ -1,0 +1,5 @@
+2021/01/12-10:10:18.865 50fc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_mediamart.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/12-12:19:06.789 1384 Level-0 table #5: started
+2021/01/12-12:19:06.792 1384 Level-0 table #5: 13288 bytes OK
+2021/01/12-12:19:06.794 1384 Delete type=0 #3
+2021/01/12-12:19:06.795 1384 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

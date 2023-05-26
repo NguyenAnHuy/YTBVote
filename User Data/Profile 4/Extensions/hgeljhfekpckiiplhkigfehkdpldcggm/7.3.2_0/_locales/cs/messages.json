@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "Povolit v anonymním režimu"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Obnovte stránku automaticky pomocí výkonné funkce sledování stránek"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Sledování stránky"
+   },
+   "ast": {
+      "message": "časovač automatického spuštění"
+   },
+   "ast_msg1": {
+      "message": "Když se tyto adresy URL otevřou, automaticky se obnoví\nJedna adresa URL na řádek, např."
+   },
+   "ast_msg2": {
+      "message": "Automatické spuštění těchto adres URL obnoví při restartu prohlížeče"
+   },
+   "ast_msg3": {
+      "message": "Automatické spuštění obnovení, když se některá z těchto adres URL otevře"
+   },
+   "ast_specific_time": {
+      "message": "vyberte konkrétní čas"
+   },
+   "auto_start": {
+      "message": "auto nastartuje"
+   },
+   "auto_starturl": {
+      "message": "tento začátek hrabě"
+   },
+   "cancel": {
+      "message": "zrušení"
+   },
+   "cancel_timer": {
+      "message": "Zrušit časovač"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "v"
+   },
+   "contribution": {
+      "message": "Příspěvek"
+   },
+   "copyright": {
+      "message": "Všechna autorská práva vyhrazena"
+   },
+   "countdown_mode": {
+      "message": "Režim odpočítávání (např. 2 hodiny 1 minuta 30 sekund)"
+   },
+   "date": {
+      "message": "datum"
+   },
+   "default_target_input": {
+      "message": "Výchozí cílový text nebo (Regex)"
+   },
+   "default_target_text": {
+      "message": "Výchozí cílový text"
+   },
+   "default_timerinterval": {
+      "message": "Výchozí časový interval"
+   },
+   "dismiss": {
+      "message": "Zavrhnout"
+   },
+   "email_alert": {
+      "message": "E-mailové upozornění"
+   },
+   "enable_ri": {
+      "message": "Povolit náhodný interval"
+   },
+   "enable_tf": {
+      "message": "Povolte tuto funkci"
+   },
+   "feature_request": {
+      "message": "Žádosti o funkce"
+   },
+   "found": {
+      "message": "Nalezeno"
+   },
+   "general_settings": {
+      "message": "Obecné nastavení"
+   },
+   "help_center": {
+      "message": "Centrum nápovědy"
+   },
+   "home": {
+      "message": "Domov"
+   },
+   "hour": {
+      "message": "hodina"
+   },
+   "howto": {
+      "message": "Jak"
+   },
+   "lost": {
+      "message": "Ztracený"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "minuta"
+   },
+   "minutes": {
+      "message": "minut"
+   },
+   "never_playsound": {
+      "message": "Nikdy nepřehrávejte zvuk"
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus má $action$ váš cílový text",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "cílový text!"
+   },
+   "open_tab": {
+      "message": "Otevřít odkaz na nové záložce"
+   },
+   "options": {
+      "message": "Možnosti"
+   },
+   "other_products": {
+      "message": "Ostatní produkty"
+   },
+   "page_monitor": {
+      "message": "Sledování stránky"
+   },
+   "pdpage": {
+      "message": "předdefinovaná stránka"
+   },
+   "pdpage_input1": {
+      "message": "příklad: www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "Obnovte tuto adresu URL namísto adresy URL aktuální karty"
+   },
+   "play_for": {
+      "message": "Hrajte o"
+   },
+   "play_onlyonce": {
+      "message": "Hrajte pouze jednou"
+   },
+   "play_sound": {
+      "message": "Přehrát zvuk"
+   },
+   "playsound_candidate": {
+      "message": "Přehrát zvukový kandidát 1 (1 sekunda)"
+   },
+   "playsound_candidate2": {
+      "message": "Přehrát zvukový kandidát 2 (6 sekund)"
+   },
+   "playsound_msg1": {
+      "message": "Přehrát zvuk z adresy URL"
+   },
+   "pm_input1": {
+      "message": "příklad: prodáno | skončeno | vypršela"
+   },
+   "pm_msg1": {
+      "message": "Popup Notification once it \u003Cb> $action$ \u003C/b> this text (or regex) on the page",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "Hrajte, dokud nekliknu na oznamovací pole"
+   },
+   "pm_msgclick": {
+      "message": "Automatické kliknutí na odkaz (pokud má sledovaný text nebo regulární výraz odkaz)"
+   },
+   "pmp": {
+      "message": "Vzhled monitoru stránky"
+   },
+   "pmp_msg1": {
+      "message": "Popup Notification once it \u003Cb> FINDS \u003C/b> the target text (or regex)"
+   },
+   "pmp_msg2": {
+      "message": "Vyskakovací oznámení, jakmile \u003Cb> ZTRACÍ \u003C/b> cílový text (nebo regulární výraz)"
+   },
+   "predefined_text": {
+      "message": "předdefinovaný text"
+   },
+   "predefined_url": {
+      "message": "předdefinovaná adresa URL"
+   },
+   "random_interval": {
+      "message": "Náhodný interval"
+   },
+   "rpp": {
+      "message": "obnovit předdefinovanou stránku"
+   },
+   "rpp_msg1": {
+      "message": "Obnovte tuto adresu URL namísto adresy URL aktuální karty (např. Www.google.com)"
+   },
+   "rpt": {
+      "message": "Obnovte předdefinovaný text"
+   },
+   "rpt_input1": {
+      "message": "Automatické spuštění obnovení, pokud je zjištěn některý z těchto textů (např. Prodáno | konec | nový)"
+   },
+   "save": {
+      "message": "Uložit"
+   },
+   "seconds": {
+      "message": "sekundy"
+   },
+   "select_countdown": {
+      "message": "vyberte odpočítávání"
+   },
+   "settings": {
+      "message": "Nastavení"
+   },
+   "show_tab": {
+      "message": "Zobrazit kartu"
+   },
+   "sound_length": {
+      "message": "Délka zvuku"
+   },
+   "specific_timemode": {
+      "message": "Specifický časový režim (např. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Start"
+   },
+   "start_timer": {
+      "message": "počáteční hodiny"
+   },
+   "stop": {
+      "message": "Stop"
+   },
+   "stop_sound": {
+      "message": "Zastavit zvuk"
+   },
+   "success": {
+      "message": "Nastavení bylo úspěšně uloženo"
+   },
+   "test_play": {
+      "message": "vyzkoušet hru"
+   },
+   "time": {
+      "message": "čas"
+   },
+   "time_interval": {
+      "message": "Časový interval"
+   },
+   "timer_mode": {
+      "message": "režim časovače"
+   },
+   "use_default": {
+      "message": "Použít výchozí"
+   },
+   "volume": {
+      "message": "hlasitost"
+   }
+}

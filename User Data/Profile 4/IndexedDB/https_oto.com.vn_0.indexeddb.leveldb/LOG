@@ -1,0 +1,8 @@
+2021/05/04-09:37:59.367 24bc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_oto.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/04-09:37:59.367 24bc Recovering log #13
+2021/05/04-09:37:59.367 24bc Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_oto.com.vn_0.indexeddb.leveldb/000013.log 
+2021/05/04-09:38:01.371 24bc Level-0 table #17: started
+2021/05/04-09:38:01.371 24bc Level-0 table #17: 0 bytes OK
+2021/05/04-09:38:01.380 24bc Delete type=0 #13
+2021/05/04-09:38:01.380 24bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/04-09:38:01.380 24bc Manual compaction at level-1 from (begin) .. (end); will stop at (end)

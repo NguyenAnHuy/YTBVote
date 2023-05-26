@@ -1,0 +1,15 @@
+2021/02/20-13:25:06.309 30c0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/20-13:25:06.309 30c0 Recovering log #4
+2021/02/20-13:25:06.309 30c0 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.netflix.com_0.indexeddb.leveldb/000004.log 
+2021/02/20-13:25:42.251 1b84 Level-0 table #8: started
+2021/02/20-13:25:42.253 1b84 Level-0 table #8: 57586 bytes OK
+2021/02/20-13:25:42.255 1b84 Delete type=0 #4
+2021/02/20-13:25:42.255 1b84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/20-13:25:42.255 1b84 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0d\x00u\x00n\x00s\x00e\x00n\x00t\x00D\x00r\x00m\x00D\x00a\x00t\x00a' @ 742 : 1
+2021/02/20-13:25:42.255 1b84 Compacting 1@1 + 1@2 files
+2021/02/20-13:25:42.257 1b84 Generated table #9@1: 62 keys, 6474 bytes
+2021/02/20-13:25:42.258 1b84 Compacted 1@1 + 1@2 files => 6474 bytes
+2021/02/20-13:25:42.259 1b84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/20-13:25:42.259 1b84 Delete type=2 #5
+2021/02/20-13:25:42.259 1b84 Delete type=2 #8
+2021/02/20-13:25:42.260 1b84 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0d\x00u\x00n\x00s\x00e\x00n\x00t\x00D\x00r\x00m\x00D\x00a\x00t\x00a' @ 742 : 1 .. (end); will stop at (end)

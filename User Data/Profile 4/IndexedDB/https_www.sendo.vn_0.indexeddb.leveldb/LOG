@@ -1,0 +1,15 @@
+2021/04/18-11:29:42.497 564 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.sendo.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/18-11:29:42.497 564 Recovering log #43
+2021/04/18-11:29:42.497 564 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.sendo.vn_0.indexeddb.leveldb/000043.log 
+2021/04/18-11:34:44.359 136c Level-0 table #48: started
+2021/04/18-11:34:44.361 136c Level-0 table #48: 16127 bytes OK
+2021/04/18-11:34:44.363 136c Delete type=0 #43
+2021/04/18-11:34:44.363 136c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/18-11:34:44.363 136c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x06\x00_\x00_\x00u\x00u\x00i\x00d' @ 2388 : 1
+2021/04/18-11:34:44.363 136c Compacting 1@1 + 1@2 files
+2021/04/18-11:34:44.365 136c Generated table #49@1: 149 keys, 10983 bytes
+2021/04/18-11:34:44.365 136c Compacted 1@1 + 1@2 files => 10983 bytes
+2021/04/18-11:34:44.366 136c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/18-11:34:44.366 136c Delete type=2 #45
+2021/04/18-11:34:44.366 136c Delete type=2 #48
+2021/04/18-11:34:44.367 136c Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x06\x00_\x00_\x00u\x00u\x00i\x00d' @ 2388 : 1 .. (end); will stop at (end)

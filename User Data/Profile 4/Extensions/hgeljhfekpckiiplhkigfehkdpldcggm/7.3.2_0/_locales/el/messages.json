@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "επιτρέψτε σε ανώνυμη περιήγηση"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Ανανεώστε τη σελίδα αυτόματα με ισχυρή λειτουργία παρακολούθησης σελίδας"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Page Monitor"
+   },
+   "ast": {
+      "message": "αυτό σταρτ τίμερ"
+   },
+   "ast_msg1": {
+      "message": "Ξεκινήστε αυτόματα την ανανέωση όταν ανοίγουν αυτές οι διευθύνσεις URL\nΈνα URL ανά γραμμή π.χ."
+   },
+   "ast_msg2": {
+      "message": "Αυτόματη έναρξη ανανέωσης αυτών των διευθύνσεων URL κατά την επανεκκίνηση του προγράμματος περιήγησης"
+   },
+   "ast_msg3": {
+      "message": "Αυτόματη έναρξη ανανέωσης όταν ανοίξει οποιαδήποτε από αυτές τις διευθύνσεις URL"
+   },
+   "ast_specific_time": {
+      "message": "επιλέξτε τη συγκεκριμένη ώρα"
+   },
+   "auto_start": {
+      "message": "auto start"
+   },
+   "auto_starturl": {
+      "message": "αυτό σταρτ ωρλ"
+   },
+   "cancel": {
+      "message": "Ματαίωση"
+   },
+   "cancel_timer": {
+      "message": "Ακύρωση χρονοδιακόπτη"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "σε"
+   },
+   "contribution": {
+      "message": "Συνεισφορά"
+   },
+   "copyright": {
+      "message": "Όλα τα πνευματικά δικαιώματα διατηρούνται"
+   },
+   "countdown_mode": {
+      "message": "Λειτουργία αντίστροφης μέτρησης (π.χ. 2 ώρες 1 λεπτό 30 δευτερόλεπτα)"
+   },
+   "date": {
+      "message": "ημερομηνία"
+   },
+   "default_target_input": {
+      "message": "Προεπιλεγμένο κείμενο προορισμού ή (Regex)"
+   },
+   "default_target_text": {
+      "message": "Προεπιλεγμένο κείμενο στόχος"
+   },
+   "default_timerinterval": {
+      "message": "Προεπιλεγμένο χρονικό διάστημα"
+   },
+   "dismiss": {
+      "message": "Απολύω"
+   },
+   "email_alert": {
+      "message": "Ειδοποίηση μέσω email"
+   },
+   "enable_ri": {
+      "message": "Ενεργοποίηση τυχαίου διαστήματος"
+   },
+   "enable_tf": {
+      "message": "Ενεργοποιήστε αυτήν τη λειτουργία"
+   },
+   "feature_request": {
+      "message": "Αιτήματα χαρακτηριστικών"
+   },
+   "found": {
+      "message": "Βρέθηκαν"
+   },
+   "general_settings": {
+      "message": "Γενικές Ρυθμίσεις"
+   },
+   "help_center": {
+      "message": "Κέντρο βοηθείας"
+   },
+   "home": {
+      "message": "Σπίτι"
+   },
+   "hour": {
+      "message": "ώρα"
+   },
+   "howto": {
+      "message": "Πως να"
+   },
+   "lost": {
+      "message": "Χαμένος"
+   },
+   "max": {
+      "message": "Μέγιστη"
+   },
+   "min": {
+      "message": "Ελάχ"
+   },
+   "minute": {
+      "message": "λεπτό"
+   },
+   "minutes": {
+      "message": "λεπτά"
+   },
+   "never_playsound": {
+      "message": "Ποτέ μην παίζετε ήχο"
+   },
+   "noti_msg": {
+      "message": "Το Auto Refresh Plus έχει $action$ το κείμενο-στόχο σας",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "το κείμενο-στόχο!"
+   },
+   "open_tab": {
+      "message": "Ανοιγμα συνδέσμου σε νέα καρτέλα"
+   },
+   "options": {
+      "message": "Επιλογές"
+   },
+   "other_products": {
+      "message": "Αλλα προϊόντα"
+   },
+   "page_monitor": {
+      "message": "Παρακολούθηση σελίδας"
+   },
+   "pdpage": {
+      "message": "προκαθορισμένη σελίδα"
+   },
+   "pdpage_input1": {
+      "message": "παράδειγμα: www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "Ανανεώστε αυτήν τη διεύθυνση URL αντί για τη διεύθυνση URL της τρέχουσας καρτέλας"
+   },
+   "play_for": {
+      "message": "Παίξε για"
+   },
+   "play_onlyonce": {
+      "message": "Παίξτε μόνο μία φορά"
+   },
+   "play_sound": {
+      "message": "Παίξτε Ήχος"
+   },
+   "playsound_candidate": {
+      "message": "Αναπαραγωγή υποψηφίου ήχου 1 (1 δευτερόλεπτο)"
+   },
+   "playsound_candidate2": {
+      "message": "Αναπαραγωγή υποψηφίου ήχου 2 (6 δευτερόλεπτα)"
+   },
+   "playsound_msg1": {
+      "message": "Αναπαραγωγή ήχου από τη διεύθυνση URL"
+   },
+   "pm_input1": {
+      "message": "παράδειγμα: πουλήθηκε | έληξε | έληξε"
+   },
+   "pm_msg1": {
+      "message": "Αναδυόμενη ειδοποίηση μόλις \u003Cb> $action$ \u003C/b> αυτό το κείμενο (ή regex) στη σελίδα",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "Παίξτε μέχρι να κάνω κλικ στο πλαίσιο ειδοποιήσεων"
+   },
+   "pm_msgclick": {
+      "message": "Αυτόματο κλικ στο σύνδεσμο (εάν το κείμενο που παρακολουθείται ή το regex έχει σύνδεσμο)"
+   },
+   "pmp": {
+      "message": "Πρότυπο παρακολούθησης σελίδας"
+   },
+   "pmp_msg1": {
+      "message": "Αναδυόμενη ειδοποίηση μόλις \u003Cb> ΒΡΕΙΤΕ \u003C/b> το στοχευόμενο κείμενο (ή regex)"
+   },
+   "pmp_msg2": {
+      "message": "Αναδυόμενη ειδοποίηση μόλις \u003Cb> ΧΑΣΕΙ \u003C/b> το κείμενο-στόχο (ή regex)"
+   },
+   "predefined_text": {
+      "message": "προκαθορισμένο κείμενο"
+   },
+   "predefined_url": {
+      "message": "προκαθορισμένο url"
+   },
+   "random_interval": {
+      "message": "Τυχαίο διάστημα"
+   },
+   "rpp": {
+      "message": "ανανέωση προκαθορισμένης σελίδας"
+   },
+   "rpp_msg1": {
+      "message": "Ανανεώστε αυτήν τη διεύθυνση URL αντί για την τρέχουσα διεύθυνση URL της καρτέλας (π.χ. www.google.com)"
+   },
+   "rpt": {
+      "message": "Ανανέωση προκαθορισμένου κειμένου"
+   },
+   "rpt_input1": {
+      "message": "Αυτόματη έναρξη ανανέωσης εάν εντοπιστεί κάποιο από αυτά τα κείμενα (π.χ. πωλήθηκε | τέλος | νέο)"
+   },
+   "save": {
+      "message": "σώσει"
+   },
+   "seconds": {
+      "message": "δευτερόλεπτα"
+   },
+   "select_countdown": {
+      "message": "επιλέξτε αντίστροφη μέτρηση"
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "show_tab": {
+      "message": "Εμφάνιση καρτέλας"
+   },
+   "sound_length": {
+      "message": "Μήκος ήχου"
+   },
+   "specific_timemode": {
+      "message": "Λειτουργία συγκεκριμένης ώρας (π.χ. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Αρχή"
+   },
+   "start_timer": {
+      "message": "ώρες έναρξης"
+   },
+   "stop": {
+      "message": "Να σταματήσει"
+   },
+   "stop_sound": {
+      "message": "Σταματήστε τον ήχο"
+   },
+   "success": {
+      "message": "Οι ρυθμίσεις αποθηκεύτηκαν με επιτυχία"
+   },
+   "test_play": {
+      "message": "δοκιμαστικό παιχνίδι"
+   },
+   "time": {
+      "message": "χρόνος"
+   },
+   "time_interval": {
+      "message": "Χρονικό διάστημα"
+   },
+   "timer_mode": {
+      "message": "λειτουργία χρονοδιακόπτη"
+   },
+   "use_default": {
+      "message": "Χρησιμοποιήστε την προεπιλογή"
+   },
+   "volume": {
+      "message": "Ενταση ΗΧΟΥ"
+   }
+}

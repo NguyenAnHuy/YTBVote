@@ -1,0 +1,5 @@
+2020/11/30-22:34:39.436 3dfc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-22:49:36.225 38e0 Level-0 table #5: started
+2020/11/30-22:49:36.228 38e0 Level-0 table #5: 1262 bytes OK
+2020/11/30-22:49:36.230 38e0 Delete type=0 #3
+2020/11/30-22:49:36.231 38e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

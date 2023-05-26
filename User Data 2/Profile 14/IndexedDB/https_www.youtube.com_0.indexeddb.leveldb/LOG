@@ -1,0 +1,19 @@
+2021/06/08-23:25:08.609 434c Reusing MANIFEST D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 14\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/08-23:25:08.610 434c Recovering log #138
+2021/06/08-23:25:08.610 434c Reusing old log D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 14\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000138.log 
+2021/06/08-23:25:08.610 434c Delete type=2 #137
+2021/06/08-23:25:09.876 5358 Manual compaction at level-0 from '\x00U\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00V\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/08-23:25:10.094 3254 Level-0 table #143: started
+2021/06/08-23:25:10.098 3254 Level-0 table #143: 21163 bytes OK
+2021/06/08-23:25:10.100 3254 Delete type=0 #138
+2021/06/08-23:25:10.100 3254 Manual compaction at level-0 from '\x00W\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00X\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/06/08-23:25:10.149 183c Level-0 table #145: started
+2021/06/08-23:25:10.151 183c Level-0 table #145: 1837 bytes OK
+2021/06/08-23:25:10.152 183c Delete type=0 #142
+2021/06/08-23:25:10.153 183c Manual compaction at level-0 from '\x00T\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00U\x00\x00\x00' @ 0 : 0; will stop at '\x00X\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 20991 : 1
+2021/06/08-23:25:10.153 183c Compacting 1@0 + 1@1 files
+2021/06/08-23:25:10.155 183c Generated table #146@0: 335 keys, 9142 bytes
+2021/06/08-23:25:10.155 183c Compacted 1@0 + 1@1 files => 9142 bytes
+2021/06/08-23:25:10.156 183c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/06/08-23:25:10.156 183c Delete type=2 #145
+2021/06/08-23:25:10.156 183c Manual compaction at level-0 from '\x00X\x00\x00\xc8\x0b\x00S\x00W\x00H\x00e\x00a\x00l\x00t\x00h\x00L\x00o\x00g' @ 20991 : 1 .. '\x00U\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,5 @@
+2021/02/04-21:01:45.473 1b8 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_suttacentral.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/04-21:02:25.138 1ab4 Level-0 table #5: started
+2021/02/04-21:02:25.143 1ab4 Level-0 table #5: 61577 bytes OK
+2021/02/04-21:02:25.145 1ab4 Delete type=0 #3
+2021/02/04-21:02:25.146 1ab4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

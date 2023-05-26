@@ -1,0 +1,8 @@
+2021/05/11-23:02:37.120 3d34 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hungmobile.vn_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/11-23:02:37.120 3d34 Recovering log #7
+2021/05/11-23:02:37.121 3d34 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hungmobile.vn_0.indexeddb.leveldb/000007.log 
+2021/05/11-23:02:39.125 3d34 Level-0 table #11: started
+2021/05/11-23:02:39.125 3d34 Level-0 table #11: 0 bytes OK
+2021/05/11-23:02:39.134 3d34 Delete type=0 #7
+2021/05/11-23:02:39.135 3d34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/11-23:02:39.135 3d34 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

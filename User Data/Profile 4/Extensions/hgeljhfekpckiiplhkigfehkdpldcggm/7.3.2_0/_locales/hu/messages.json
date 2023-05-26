@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "inkognitóban engedélyezni"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Automatikusan frissítse az oldalt a hatékony oldalfigyelő funkcióval"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Auto Refresh Plus | Oldalfigyelő"
+   },
+   "ast": {
+      "message": "automatikus indítási időzítő"
+   },
+   "ast_msg1": {
+      "message": "Automatikusan elkezdi a frissítést, amikor ezek az URL-ek megnyílnak\nSoronként egy URL pl."
+   },
+   "ast_msg2": {
+      "message": "Automatikus indítás frissítse ezeket az URL-eket, amikor a böngésző újraindul"
+   },
+   "ast_msg3": {
+      "message": "Az automatikus frissítés indítása, amikor ezek közül az URL-ek közül bármelyik megnyílik"
+   },
+   "ast_specific_time": {
+      "message": "válassza ki az adott időpontot"
+   },
+   "auto_start": {
+      "message": "autó indul"
+   },
+   "auto_starturl": {
+      "message": "ez a kezdő gróf"
+   },
+   "cancel": {
+      "message": "megszünteti"
+   },
+   "cancel_timer": {
+      "message": "Időzítő törlése"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "ban ben"
+   },
+   "contribution": {
+      "message": "Hozzájárulás"
+   },
+   "copyright": {
+      "message": "Minden szerzői jog fenntartva"
+   },
+   "countdown_mode": {
+      "message": "Visszaszámlálás mód (pl. 2 óra 1 perc 30 másodperc)"
+   },
+   "date": {
+      "message": "dátum"
+   },
+   "default_target_input": {
+      "message": "Alapértelmezett célszöveg vagy (Regex)"
+   },
+   "default_target_text": {
+      "message": "Alapértelmezett célszöveg"
+   },
+   "default_timerinterval": {
+      "message": "Alapértelmezett időintervallum"
+   },
+   "dismiss": {
+      "message": "Elvetés"
+   },
+   "email_alert": {
+      "message": "E-mail riasztás"
+   },
+   "enable_ri": {
+      "message": "Véletlenszerű intervallum engedélyezése"
+   },
+   "enable_tf": {
+      "message": "Engedélyezze ezt a funkciót"
+   },
+   "feature_request": {
+      "message": "Funkciókérések"
+   },
+   "found": {
+      "message": "Megtalált"
+   },
+   "general_settings": {
+      "message": "Általános beállítások"
+   },
+   "help_center": {
+      "message": "Segítség Központ"
+   },
+   "home": {
+      "message": "itthon"
+   },
+   "hour": {
+      "message": "óra"
+   },
+   "howto": {
+      "message": "Hogyan kell"
+   },
+   "lost": {
+      "message": "Elveszett"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "perc"
+   },
+   "minutes": {
+      "message": "percek"
+   },
+   "never_playsound": {
+      "message": "Soha ne játsszon hangot"
+   },
+   "noti_msg": {
+      "message": "Az Auto Refresh Plus $action$ célszöveggel rendelkezik",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "a célszöveget!"
+   },
+   "open_tab": {
+      "message": "Link megnyitása az új lapon"
+   },
+   "options": {
+      "message": "Lehetőségek"
+   },
+   "other_products": {
+      "message": "Más termékek"
+   },
+   "page_monitor": {
+      "message": "Oldalfigyelő"
+   },
+   "pdpage": {
+      "message": "előre definiált oldal"
+   },
+   "pdpage_input1": {
+      "message": "példa: www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "Frissítse ezt az URL-t az aktuális lap URL-je helyett"
+   },
+   "play_for": {
+      "message": "Játssz"
+   },
+   "play_onlyonce": {
+      "message": "Csak egyszer játszani"
+   },
+   "play_sound": {
+      "message": "Hang lejátszása"
+   },
+   "playsound_candidate": {
+      "message": "1. hangjelölt lejátszása (1 másodperc)"
+   },
+   "playsound_candidate2": {
+      "message": "2. hangjelölt lejátszása (6 másodperc)"
+   },
+   "playsound_msg1": {
+      "message": "Hang lejátszása az URL-ről"
+   },
+   "pm_input1": {
+      "message": "példa: eladott | vége | lejárt"
+   },
+   "pm_msg1": {
+      "message": "Felugró értesítés, ha \u003Cb> $action$ \u003C/b> ezt a szöveget (vagy regexet) adja meg az oldalon",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "Addig játszani, amíg nem kattintok az értesítési mezőre"
+   },
+   "pm_msgclick": {
+      "message": "Automatikus kattintás a linkre (ha a figyelt szövegnek vagy a regexnek van linkje)"
+   },
+   "pmp": {
+      "message": "Oldalfigyelő minta"
+   },
+   "pmp_msg1": {
+      "message": "Felugró értesítés, ha \u003Cb> megkeresi \u003C/b> a célszöveget (vagy regexet)"
+   },
+   "pmp_msg2": {
+      "message": "Felugró értesítés, ha \u003Cb> elveszíti \u003C/b> a célszöveget (vagy regexet)"
+   },
+   "predefined_text": {
+      "message": "előre definiált szöveg"
+   },
+   "predefined_url": {
+      "message": "előre definiált URL"
+   },
+   "random_interval": {
+      "message": "Véletlen intervallum"
+   },
+   "rpp": {
+      "message": "előre definiált oldal frissítése"
+   },
+   "rpp_msg1": {
+      "message": "Frissítse ezt az URL-t az aktuális lap URL-je helyett (pl. Www.google.com)"
+   },
+   "rpt": {
+      "message": "Előre definiált szöveg frissítése"
+   },
+   "rpt_input1": {
+      "message": "Automatikusan elkezdi a frissítést, ha a szöveg bármelyikét észleli (pl. Eladott | vég | új)"
+   },
+   "save": {
+      "message": "megment"
+   },
+   "seconds": {
+      "message": "másodpercig"
+   },
+   "select_countdown": {
+      "message": "válassza a visszaszámlálást"
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "show_tab": {
+      "message": "Megjelenítés fül"
+   },
+   "sound_length": {
+      "message": "A hang hossza"
+   },
+   "specific_timemode": {
+      "message": "Meghatározott idő mód (pl. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Rajt"
+   },
+   "start_timer": {
+      "message": "kezdési órák"
+   },
+   "stop": {
+      "message": "Álljon meg"
+   },
+   "stop_sound": {
+      "message": "Stop Sound"
+   },
+   "success": {
+      "message": "A beállítások mentése sikeres volt"
+   },
+   "test_play": {
+      "message": "tesztjáték"
+   },
+   "time": {
+      "message": "idő"
+   },
+   "time_interval": {
+      "message": "Időintervallum"
+   },
+   "timer_mode": {
+      "message": "időzítő mód"
+   },
+   "use_default": {
+      "message": "Az alapértelmezett"
+   },
+   "volume": {
+      "message": "hangerő"
+   }
+}

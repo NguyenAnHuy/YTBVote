@@ -1,0 +1,8 @@
+2021/05/02-19:55:33.393 2cd0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/02-19:55:33.393 2cd0 Recovering log #426
+2021/05/02-19:55:33.393 2cd0 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_photos.google.com_0.indexeddb.leveldb/000426.log 
+2021/05/02-19:56:05.387 2cd0 Level-0 table #430: started
+2021/05/02-19:56:05.387 2cd0 Level-0 table #430: 0 bytes OK
+2021/05/02-19:56:05.389 2cd0 Delete type=0 #426
+2021/05/02-19:56:05.389 2cd0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/02-19:56:05.389 2cd0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

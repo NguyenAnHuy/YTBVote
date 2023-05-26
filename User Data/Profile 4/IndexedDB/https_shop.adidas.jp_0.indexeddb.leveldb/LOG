@@ -1,0 +1,15 @@
+2021/01/13-22:42:06.654 52d8 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shop.adidas.jp_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/13-22:42:06.654 52d8 Recovering log #26
+2021/01/13-22:42:06.654 52d8 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shop.adidas.jp_0.indexeddb.leveldb/000026.log 
+2021/01/13-22:49:00.966 24f8 Level-0 table #30: started
+2021/01/13-22:49:00.968 24f8 Level-0 table #30: 190 bytes OK
+2021/01/13-22:49:00.970 24f8 Delete type=0 #26
+2021/01/13-22:49:00.970 24f8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/13-22:49:00.970 24f8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 334 : 1
+2021/01/13-22:49:00.970 24f8 Compacting 1@1 + 1@2 files
+2021/01/13-22:49:00.972 24f8 Generated table #31@1: 38 keys, 1381 bytes
+2021/01/13-22:49:00.972 24f8 Compacted 1@1 + 1@2 files => 1381 bytes
+2021/01/13-22:49:00.973 24f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/13-22:49:00.973 24f8 Delete type=2 #24
+2021/01/13-22:49:00.973 24f8 Delete type=2 #30
+2021/01/13-22:49:00.973 24f8 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 334 : 1 .. (end); will stop at (end)

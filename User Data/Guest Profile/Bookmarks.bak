@@ -1,0 +1,33 @@
+{
+   "checksum": "ef780c35b3fb55e18411fed45ad2dabb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13234530211691159",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Thanh dấu trang",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13234530211691163",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Dấu trang khác",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13234530211691165",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Dấu trang trên thiết bị di động",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,28 @@
+[1816:2024:0526/111317.852:WARNING:chrome_main_delegate.cc(589)] This is Chrome version 113.0.5672.127 (not a warning)
+[1816:2024:0526/111317.922:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[1816:2024:0526/111317.922:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[1816:2024:0526/111318.276:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.276:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 100310794168988221304
+[1816:2024:0526/111318.276:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.276:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 102146731446319394763
+[1816:2024:0526/111318.276:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.277:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 116591576482329268897
+[1816:2024:0526/111318.300:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.300:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 104823994199098817010
+[1816:2024:0526/111318.301:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.301:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 106442627685461444021
+[1816:2024:0526/111318.303:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.303:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 105363505741522163253
+[1816:2024:0526/111318.303:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.303:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 108392367814816972630
+[1816:2024:0526/111318.303:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.303:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 111185992369417121695
+[1816:2024:0526/111318.303:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Invalid credentials (credentials rejected by server).
+[1816:2024:0526/111318.303:WARNING:account_fetcher_service.cc(386)] Failed to get UserInfo for 112469986704517798039
+[1816:2024:0526/111318.304:INFO:primary_account_manager.cc(466)] Revoking all refresh tokens on server. Reason: sign out
+[1816:2024:0526/111319.458:INFO:CONSOLE(0)] "The service worker navigation preload request was cancelled before 'preloadResponse' settled. If you intend to use 'preloadResponse', use waitUntil() or respondWith() to wait for the promise to settle.", source:  (0)
+[1816:2024:0526/111319.546:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1816:2024:0526/111320.220:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[1816:2024:0526/111320.338:INFO:CONSOLE(4129)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/339bae71/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js (4129)
+[1816:2024:0526/111326.659:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

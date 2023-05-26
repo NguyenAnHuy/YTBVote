@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "시크릿에서 허용"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "강력한 페이지 모니터 기능으로 자동으로 페이지 새로 고침"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "자동 새로 고침 플러스 | 페이지 모니터"
+   },
+   "ast": {
+      "message": "자동 시작 타이머"
+   },
+   "ast_msg1": {
+      "message": "이 URL이 열리면 자동으로 새로 고침 시작\n한 줄에 하나의 URL 예 :"
+   },
+   "ast_msg2": {
+      "message": "자동 시작은 브라우저가 다시 시작될 때 이러한 URL을 새로 고칩니다."
+   },
+   "ast_msg3": {
+      "message": "이러한 URL 중 하나라도 열릴 때 자동 시작 새로 고침"
+   },
+   "ast_specific_time": {
+      "message": "특정 시간을 선택"
+   },
+   "auto_start": {
+      "message": "차 시작"
+   },
+   "auto_starturl": {
+      "message": "이 시작 얼"
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cancel_timer": {
+      "message": "타이머 취소"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "에"
+   },
+   "contribution": {
+      "message": "기부"
+   },
+   "copyright": {
+      "message": "모든 저작권 보유"
+   },
+   "countdown_mode": {
+      "message": "카운트 다운 모드 (예 : 2 시간 1 분 30 초)"
+   },
+   "date": {
+      "message": "데이트"
+   },
+   "default_target_input": {
+      "message": "기본 대상 텍스트 또는 (Regex)"
+   },
+   "default_target_text": {
+      "message": "기본 타겟 텍스트"
+   },
+   "default_timerinterval": {
+      "message": "기본 시간 간격"
+   },
+   "dismiss": {
+      "message": "버리다"
+   },
+   "email_alert": {
+      "message": "이메일 알림"
+   },
+   "enable_ri": {
+      "message": "임의 간격 활성화"
+   },
+   "enable_tf": {
+      "message": "이 기능 활성화"
+   },
+   "feature_request": {
+      "message": "기능 요청"
+   },
+   "found": {
+      "message": "녹이다"
+   },
+   "general_settings": {
+      "message": "일반 설정"
+   },
+   "help_center": {
+      "message": "지원 센터"
+   },
+   "home": {
+      "message": "집"
+   },
+   "hour": {
+      "message": "시"
+   },
+   "howto": {
+      "message": "어떻게"
+   },
+   "lost": {
+      "message": "잃어버린"
+   },
+   "max": {
+      "message": "최대"
+   },
+   "min": {
+      "message": "최소"
+   },
+   "minute": {
+      "message": "분"
+   },
+   "minutes": {
+      "message": "의사록"
+   },
+   "never_playsound": {
+      "message": "소리 재생 안 함"
+   },
+   "noti_msg": {
+      "message": "자동 새로 고침 플러스에 $action$ 대상 텍스트가 있습니다.",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "타겟 텍스트!"
+   },
+   "open_tab": {
+      "message": "새 탭에서 링크 열기"
+   },
+   "options": {
+      "message": "옵션"
+   },
+   "other_products": {
+      "message": "다른 제품들"
+   },
+   "page_monitor": {
+      "message": "페이지 모니터"
+   },
+   "pdpage": {
+      "message": "미리 정의 된 페이지"
+   },
+   "pdpage_input1": {
+      "message": "예 : www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "현재 탭의 URL 대신이 URL을 새로 고칩니다."
+   },
+   "play_for": {
+      "message": "플레이"
+   },
+   "play_onlyonce": {
+      "message": "한 번만 플레이"
+   },
+   "play_sound": {
+      "message": "소리 재생"
+   },
+   "playsound_candidate": {
+      "message": "사운드 후보 1 재생 (1 초)"
+   },
+   "playsound_candidate2": {
+      "message": "음성 후보 2 재생 (6 초)"
+   },
+   "playsound_msg1": {
+      "message": "URL에서 소리 재생"
+   },
+   "pm_input1": {
+      "message": "예 : sold | ended | expired"
+   },
+   "pm_msg1": {
+      "message": "페이지에서이 텍스트 (또는 정규식)가 \u003Cb> $action$ \u003C/ b>되면 팝업 알림",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "알림 상자를 클릭 할 때까지 재생"
+   },
+   "pm_msgclick": {
+      "message": "링크 자동 클릭 (모니터링 된 텍스트 또는 정규식에 링크가있는 경우)"
+   },
+   "pmp": {
+      "message": "페이지 모니터 패턴"
+   },
+   "pmp_msg1": {
+      "message": "대상 텍스트 (또는 정규식)를 \u003Cb> 찾은 \u003C/ b> 팝업 알림"
+   },
+   "pmp_msg2": {
+      "message": "대상 텍스트 (또는 정규식)가 \u003Cb> 손실 \u003C/ b> 된 경우 팝업 알림"
+   },
+   "predefined_text": {
+      "message": "미리 정의 된 텍스트"
+   },
+   "predefined_url": {
+      "message": "사전 정의 된 URL"
+   },
+   "random_interval": {
+      "message": "임의 간격"
+   },
+   "rpp": {
+      "message": "미리 정의 된 페이지 새로 고침"
+   },
+   "rpp_msg1": {
+      "message": "현재 탭의 URL (예 : www.google.com) 대신이 URL을 새로 고침합니다."
+   },
+   "rpt": {
+      "message": "미리 정의 된 텍스트 새로 고침"
+   },
+   "rpt_input1": {
+      "message": "이러한 텍스트가 감지되면 자동으로 새로 고침을 시작합니다 (예 : sold | end | new)."
+   },
+   "save": {
+      "message": "저장"
+   },
+   "seconds": {
+      "message": "초"
+   },
+   "select_countdown": {
+      "message": "카운트 다운 선택"
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "show_tab": {
+      "message": "탭 표시"
+   },
+   "sound_length": {
+      "message": "사운드 길이"
+   },
+   "specific_timemode": {
+      "message": "특정 시간 모드 (예 : 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "스타트"
+   },
+   "start_timer": {
+      "message": "시작 시간"
+   },
+   "stop": {
+      "message": "중지"
+   },
+   "stop_sound": {
+      "message": "소리 중지"
+   },
+   "success": {
+      "message": "설정이 성공적으로 저장되었습니다."
+   },
+   "test_play": {
+      "message": "테스트 플레이"
+   },
+   "time": {
+      "message": "시각"
+   },
+   "time_interval": {
+      "message": "시간 간격"
+   },
+   "timer_mode": {
+      "message": "타이머 모드"
+   },
+   "use_default": {
+      "message": "기본값 사용"
+   },
+   "volume": {
+      "message": "음량"
+   }
+}

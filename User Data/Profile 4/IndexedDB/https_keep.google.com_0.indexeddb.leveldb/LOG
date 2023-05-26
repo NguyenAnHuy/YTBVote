@@ -1,0 +1,15 @@
+2021/05/12-14:22:42.434 4730 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/12-14:22:42.434 4730 Recovering log #54
+2021/05/12-14:22:42.435 4730 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_keep.google.com_0.indexeddb.leveldb/000054.log 
+2021/05/12-22:52:56.900 3878 Level-0 table #58: started
+2021/05/12-22:52:56.903 3878 Level-0 table #58: 190 bytes OK
+2021/05/12-22:52:56.904 3878 Delete type=0 #54
+2021/05/12-22:52:56.904 3878 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/12-22:52:56.904 3878 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 173 : 1
+2021/05/12-22:52:56.904 3878 Compacting 1@1 + 1@2 files
+2021/05/12-22:52:56.906 3878 Generated table #59@1: 53 keys, 919 bytes
+2021/05/12-22:52:56.906 3878 Compacted 1@1 + 1@2 files => 919 bytes
+2021/05/12-22:52:56.907 3878 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/12-22:52:56.907 3878 Delete type=2 #49
+2021/05/12-22:52:56.907 3878 Delete type=2 #58
+2021/05/12-22:52:56.908 3878 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 173 : 1 .. (end); will stop at (end)

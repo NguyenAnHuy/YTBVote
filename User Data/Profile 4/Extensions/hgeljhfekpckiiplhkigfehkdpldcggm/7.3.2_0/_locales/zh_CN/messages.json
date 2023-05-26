@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "允许在隐身"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "强大的页面监控功能可自动刷新页面"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "自动刷新Plus |页面监控器"
+   },
+   "ast": {
+      "message": "自动启动计时器"
+   },
+   "ast_msg1": {
+      "message": "这些网址打开后自动开始刷新\n每行一个网址，例如"
+   },
+   "ast_msg2": {
+      "message": "浏览器重新启动时，自动启动会刷新这些URL"
+   },
+   "ast_msg3": {
+      "message": "这些网址中的任何一个打开时，自动开始刷新"
+   },
+   "ast_specific_time": {
+      "message": "选择具体时间"
+   },
+   "auto_start": {
+      "message": "汽车启动"
+   },
+   "auto_starturl": {
+      "message": "这个开始伯爵"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cancel_timer": {
+      "message": "取消计时器"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "在"
+   },
+   "contribution": {
+      "message": "贡献"
+   },
+   "copyright": {
+      "message": "版权所有"
+   },
+   "countdown_mode": {
+      "message": "倒数计时模式（例如2小时1分30秒）"
+   },
+   "date": {
+      "message": "日期"
+   },
+   "default_target_input": {
+      "message": "默认目标文字或（正则表达式）"
+   },
+   "default_target_text": {
+      "message": "默认目标文字"
+   },
+   "default_timerinterval": {
+      "message": "默认时间间隔"
+   },
+   "dismiss": {
+      "message": "解雇"
+   },
+   "email_alert": {
+      "message": "电子邮件提醒"
+   },
+   "enable_ri": {
+      "message": "启用随机间隔"
+   },
+   "enable_tf": {
+      "message": "启用此功能"
+   },
+   "feature_request": {
+      "message": "功能要求"
+   },
+   "found": {
+      "message": "找到了"
+   },
+   "general_settings": {
+      "message": "常规设置"
+   },
+   "help_center": {
+      "message": "帮助中心"
+   },
+   "home": {
+      "message": "家"
+   },
+   "hour": {
+      "message": "小时"
+   },
+   "howto": {
+      "message": "如何"
+   },
+   "lost": {
+      "message": "丢失"
+   },
+   "max": {
+      "message": "最高"
+   },
+   "min": {
+      "message": "敏"
+   },
+   "minute": {
+      "message": "分钟"
+   },
+   "minutes": {
+      "message": "分钟"
+   },
+   "never_playsound": {
+      "message": "永不播放声音"
+   },
+   "noti_msg": {
+      "message": "Auto Refresh Plus的目标文字为$ 2 $$$美元",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "目标文字！"
+   },
+   "open_tab": {
+      "message": "在新的标签页打开链接"
+   },
+   "options": {
+      "message": "选件"
+   },
+   "other_products": {
+      "message": "其他产品"
+   },
+   "page_monitor": {
+      "message": "页面监控器"
+   },
+   "pdpage": {
+      "message": "预定义页面"
+   },
+   "pdpage_input1": {
+      "message": "例如：www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "刷新此URL，而不是当前选项卡的URL"
+   },
+   "play_for": {
+      "message": "玩乐于"
+   },
+   "play_onlyonce": {
+      "message": "只玩一次"
+   },
+   "play_sound": {
+      "message": "播放声音"
+   },
+   "playsound_candidate": {
+      "message": "播放候选声音1（1秒）"
+   },
+   "playsound_candidate2": {
+      "message": "播放候选声音2（6秒）"
+   },
+   "playsound_msg1": {
+      "message": "播放来自URL的声音"
+   },
+   "pm_input1": {
+      "message": "示例：已售|已终止|已过期"
+   },
+   "pm_msg1": {
+      "message": "在页面上将此文本（或正则表达式）\u003Cb> $action$ \u003C/ b>弹出时通知",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "播放直到我单击通知框"
+   },
+   "pm_msgclick": {
+      "message": "自动单击链接（如果受监视的文本或正则表达式具有链接）"
+   },
+   "pmp": {
+      "message": "页面监控器模式"
+   },
+   "pmp_msg1": {
+      "message": "弹出通知，一旦它\u003Cb>找到\u003C/ b>目标文本（或正则表达式）"
+   },
+   "pmp_msg2": {
+      "message": "一旦目标文本（或正则表达式）\u003Cb>丢失\u003C/ b>，就会弹出通知"
+   },
+   "predefined_text": {
+      "message": "预定义的文本"
+   },
+   "predefined_url": {
+      "message": "预定义网址"
+   },
+   "random_interval": {
+      "message": "随机间隔"
+   },
+   "rpp": {
+      "message": "刷新预定义页面"
+   },
+   "rpp_msg1": {
+      "message": "刷新此URL，而不是当前标签页的URL（例如www.google.com）"
+   },
+   "rpt": {
+      "message": "刷新预定义的文本"
+   },
+   "rpt_input1": {
+      "message": "如果检测到这些文本中的任何一个（例如，卖出|完|新），就会自动开始刷新"
+   },
+   "save": {
+      "message": "保存"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "select_countdown": {
+      "message": "选择倒数"
+   },
+   "settings": {
+      "message": "设定值"
+   },
+   "show_tab": {
+      "message": "显示标签"
+   },
+   "sound_length": {
+      "message": "音长"
+   },
+   "specific_timemode": {
+      "message": "特定时间模式（例如2012年1月1日20:10:00）"
+   },
+   "start_msg": {
+      "message": "开始"
+   },
+   "start_timer": {
+      "message": "开始时间"
+   },
+   "stop": {
+      "message": "停止"
+   },
+   "stop_sound": {
+      "message": "停止声音"
+   },
+   "success": {
+      "message": "设置已成功保存"
+   },
+   "test_play": {
+      "message": "试玩"
+   },
+   "time": {
+      "message": "时间"
+   },
+   "time_interval": {
+      "message": "时间间隔"
+   },
+   "timer_mode": {
+      "message": "计时器模式"
+   },
+   "use_default": {
+      "message": "默认情况下使用"
+   },
+   "volume": {
+      "message": "卷"
+   }
+}

@@ -1,0 +1,26 @@
+2021/05/07-21:08:10.763 1580 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hoangngocquanganh.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/07-21:08:10.763 1580 Recovering log #9
+2021/05/07-21:08:10.763 1580 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hoangngocquanganh.com_0.indexeddb.leveldb/000009.log 
+2021/05/07-21:08:19.120 1860 Level-0 table #15: started
+2021/05/07-21:08:19.130 1860 Level-0 table #15: 523 bytes OK
+2021/05/07-21:08:19.132 1860 Delete type=0 #9
+2021/05/07-21:08:19.132 1860 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/07-21:08:21.132 1580 Level-0 table #17: started
+2021/05/07-21:08:21.134 1580 Level-0 table #17: 230 bytes OK
+2021/05/07-21:08:21.135 1580 Delete type=0 #14
+2021/05/07-21:08:21.135 1580 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 60 : 0
+2021/05/07-21:08:21.135 1580 Compacting 1@0 + 1@1 files
+2021/05/07-21:08:21.138 1580 Generated table #18@0: 2 keys, 196 bytes
+2021/05/07-21:08:21.138 1580 Compacted 1@0 + 1@1 files => 196 bytes
+2021/05/07-21:08:21.139 1580 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/07-21:08:21.139 1580 Delete type=2 #15
+2021/05/07-21:08:21.139 1580 Delete type=2 #17
+2021/05/07-21:08:21.139 1580 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 60 : 0 .. (end); will stop at (end)
+2021/05/07-21:08:21.139 1580 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x03' @ 59 : 0
+2021/05/07-21:08:21.139 1580 Compacting 1@1 + 1@2 files
+2021/05/07-21:08:21.142 1580 Generated table #19@1: 5 keys, 237 bytes
+2021/05/07-21:08:21.142 1580 Compacted 1@1 + 1@2 files => 237 bytes
+2021/05/07-21:08:21.142 1580 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/07-21:08:21.143 1580 Delete type=2 #12
+2021/05/07-21:08:21.143 1580 Delete type=2 #18
+2021/05/07-21:08:21.143 1580 Manual compaction at level-1 from '\x00\x00\x00\x00\x03' @ 59 : 0 .. (end); will stop at (end)

@@ -1,0 +1,26 @@
+2021/05/13-18:37:01.198 7a90 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 5\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-18:37:01.199 7a90 Recovering log #14
+2021/05/13-18:37:01.200 7a90 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 5\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000014.log 
+2021/05/13-18:37:01.839 7a90 Level-0 table #19: started
+2021/05/13-18:37:01.843 7a90 Level-0 table #19: 75924 bytes OK
+2021/05/13-18:37:01.844 7a90 Delete type=0 #14
+2021/05/13-18:37:01.844 7a90 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/13-18:37:37.737 2d1c Level-0 table #21: started
+2021/05/13-18:37:37.740 2d1c Level-0 table #21: 36158 bytes OK
+2021/05/13-18:37:37.741 2d1c Delete type=0 #18
+2021/05/13-18:37:37.741 2d1c Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x0f\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xe0(AX\x96wB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 6808 : 1
+2021/05/13-18:37:37.741 2d1c Compacting 1@0 + 1@1 files
+2021/05/13-18:37:37.743 2d1c Generated table #22@0: 609 keys, 11854 bytes
+2021/05/13-18:37:37.744 2d1c Compacted 1@0 + 1@1 files => 11854 bytes
+2021/05/13-18:37:37.744 2d1c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/13-18:37:37.745 2d1c Delete type=2 #19
+2021/05/13-18:37:37.745 2d1c Delete type=2 #21
+2021/05/13-18:37:37.745 2d1c Manual compaction at level-0 from '\x00\x0f\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xe0(AX\x96wB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 6808 : 1 .. (end); will stop at (end)
+2021/05/13-18:37:37.745 2d1c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0f\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xe0(AX\x96wB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 6808 : 1
+2021/05/13-18:37:37.745 2d1c Compacting 1@1 + 1@2 files
+2021/05/13-18:37:37.747 2d1c Generated table #23@1: 241 keys, 15257 bytes
+2021/05/13-18:37:37.747 2d1c Compacted 1@1 + 1@2 files => 15257 bytes
+2021/05/13-18:37:37.748 2d1c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-18:37:37.748 2d1c Delete type=2 #16
+2021/05/13-18:37:37.749 2d1c Delete type=2 #22
+2021/05/13-18:37:37.749 2d1c Manual compaction at level-1 from '\x00\x0f\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xe0(AX\x96wB\x00\x03\x00\x00\x00\x00\x00\x00\x18@' @ 6808 : 1 .. (end); will stop at (end)

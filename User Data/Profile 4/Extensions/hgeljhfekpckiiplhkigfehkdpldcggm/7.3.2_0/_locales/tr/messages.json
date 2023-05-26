@@ -1,0 +1,267 @@
+{
+   "allow_incognito": {
+      "message": "Gizli modda izin ver"
+   },
+   "app_description": {
+      "description": "The description of extension",
+      "message": "Güçlü sayfa izleme özelliği ile sayfayı otomatik olarak yenileyin"
+   },
+   "app_name": {
+      "description": "The extension name",
+      "message": "Otomatik Yenileme Plus | Sayfa İzleme"
+   },
+   "ast": {
+      "message": "otomatik başlatma zamanlayıcısı"
+   },
+   "ast_msg1": {
+      "message": "Bu URL'ler açıldığında otomatik olarak yenilemeye başlayın\nSatır başına bir URL, ör."
+   },
+   "ast_msg2": {
+      "message": "Tarayıcı yeniden başlatıldığında bu URL'leri otomatik olarak başlat"
+   },
+   "ast_msg3": {
+      "message": "Bu URL'lerden herhangi biri açıldığında yenilemeyi otomatik başlat"
+   },
+   "ast_specific_time": {
+      "message": "belirli bir zaman seçin"
+   },
+   "auto_start": {
+      "message": "araba başlar"
+   },
+   "auto_starturl": {
+      "message": "bu başlangıç ​​kontluğu"
+   },
+   "cancel": {
+      "message": "iptal etmek"
+   },
+   "cancel_timer": {
+      "message": "Zamanlayıcıyı İptal Et"
+   },
+   "chrome_language": {
+      "description": "language identifier used by Chrome",
+      "message": "içinde"
+   },
+   "contribution": {
+      "message": "Katkı"
+   },
+   "copyright": {
+      "message": "Tüm telif hakkı saklıdır"
+   },
+   "countdown_mode": {
+      "message": "Geri Sayım Modu (ör. 2 saat 1 dakika 30 saniye)"
+   },
+   "date": {
+      "message": "tarih"
+   },
+   "default_target_input": {
+      "message": "Varsayılan hedef metin veya (Regex)"
+   },
+   "default_target_text": {
+      "message": "Varsayılan hedef metin"
+   },
+   "default_timerinterval": {
+      "message": "Varsayılan Zaman Aralığı"
+   },
+   "dismiss": {
+      "message": "Reddet"
+   },
+   "email_alert": {
+      "message": "E-posta uyarısı"
+   },
+   "enable_ri": {
+      "message": "Rastgele Aralığı Etkinleştir"
+   },
+   "enable_tf": {
+      "message": "Bu özelliği etkinleştirin"
+   },
+   "feature_request": {
+      "message": "Özellik talepleri"
+   },
+   "found": {
+      "message": "Bulundu"
+   },
+   "general_settings": {
+      "message": "Genel Ayarlar"
+   },
+   "help_center": {
+      "message": "Yardım Merkezi"
+   },
+   "home": {
+      "message": "ev"
+   },
+   "hour": {
+      "message": "saat"
+   },
+   "howto": {
+      "message": "Nasıl"
+   },
+   "lost": {
+      "message": "Kayıp"
+   },
+   "max": {
+      "message": "Max"
+   },
+   "min": {
+      "message": "Min"
+   },
+   "minute": {
+      "message": "dakika"
+   },
+   "minutes": {
+      "message": "dakika"
+   },
+   "never_playsound": {
+      "message": "Asla ses çalma"
+   },
+   "noti_msg": {
+      "message": "Otomatik Yenileme Artı, hedef metninizde $action$ var",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "noti_msg_title": {
+      "message": "hedef metin!"
+   },
+   "open_tab": {
+      "message": "Bağlantıyı yeni sekmede aç"
+   },
+   "options": {
+      "message": "Seçenekler"
+   },
+   "other_products": {
+      "message": "Diğer ürünler"
+   },
+   "page_monitor": {
+      "message": "Sayfa İzleme"
+   },
+   "pdpage": {
+      "message": "önceden tanımlanmış sayfa"
+   },
+   "pdpage_input1": {
+      "message": "örnek: www.google.com"
+   },
+   "pdpage_msg1": {
+      "message": "Mevcut sekmenin URL'si yerine bu URL'yi yenileyin"
+   },
+   "play_for": {
+      "message": "İçin oyna"
+   },
+   "play_onlyonce": {
+      "message": "Sadece bir kez oyna"
+   },
+   "play_sound": {
+      "message": "Sesi Oynat"
+   },
+   "playsound_candidate": {
+      "message": "Ses aday 1'i çal (1 saniye)"
+   },
+   "playsound_candidate2": {
+      "message": "Ses adayını çal (6 saniye)"
+   },
+   "playsound_msg1": {
+      "message": "URL'den ses çal"
+   },
+   "pm_input1": {
+      "message": "örnek: satıldı | bitti | süresi doldu"
+   },
+   "pm_msg1": {
+      "message": "Bu metin (veya regex) sayfada bir kez \u003Cb> $$$ 1 $ $$$ \u003C/b> Popup Bildirimi",
+      "placeholders": {
+         "action": {
+            "content": "$1"
+         }
+      }
+   },
+   "pm_msg2": {
+      "message": "Bildirim kutusunu tıklayana kadar oynatın"
+   },
+   "pm_msgclick": {
+      "message": "Bağlantıya otomatik tıklama (izlenen metin veya normal ifadede bağlantı varsa)"
+   },
+   "pmp": {
+      "message": "Sayfa İzleme Kalıbı"
+   },
+   "pmp_msg1": {
+      "message": "Hedef metni (veya regex'i) \u003Cb> BULDUĞUNDA \u003C/b> Açılır Bildirim"
+   },
+   "pmp_msg2": {
+      "message": "Popup Bildirimi, hedef metni (veya normal ifadeyi) \u003Cb> KAYBEDER \u003C/b>"
+   },
+   "predefined_text": {
+      "message": "önceden tanımlanmış metin"
+   },
+   "predefined_url": {
+      "message": "önceden tanımlanmış url"
+   },
+   "random_interval": {
+      "message": "Rastgele Aralık"
+   },
+   "rpp": {
+      "message": "önceden tanımlanmış sayfayı yenile"
+   },
+   "rpp_msg1": {
+      "message": "Geçerli sekmenin URL'si (ör. Www.google.com) yerine bu URL'yi yenileyin"
+   },
+   "rpt": {
+      "message": "Önceden tanımlanmış metni yenile"
+   },
+   "rpt_input1": {
+      "message": "Bu metinlerden herhangi biri tespit edilirse yenilemeye otomatik başla (ör. Satıldı | bitti | yeni)"
+   },
+   "save": {
+      "message": "kayıt etmek"
+   },
+   "seconds": {
+      "message": "saniye"
+   },
+   "select_countdown": {
+      "message": "geri sayımı seçin"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "show_tab": {
+      "message": "Sekmeyi göster"
+   },
+   "sound_length": {
+      "message": "Ses uzunluğu"
+   },
+   "specific_timemode": {
+      "message": "Belirli Zaman Modu (ör. 2012-01-01 20:10:00)"
+   },
+   "start_msg": {
+      "message": "Başlat"
+   },
+   "start_timer": {
+      "message": "başlangıç ​​saatleri"
+   },
+   "stop": {
+      "message": "Dur"
+   },
+   "stop_sound": {
+      "message": "Sesi Durdur"
+   },
+   "success": {
+      "message": "Ayarlar başarıyla kaydedildi"
+   },
+   "test_play": {
+      "message": "deneme oyunu"
+   },
+   "time": {
+      "message": "zaman"
+   },
+   "time_interval": {
+      "message": "Zaman aralığı"
+   },
+   "timer_mode": {
+      "message": "zamanlayıcı modu"
+   },
+   "use_default": {
+      "message": "Varsayılanı Kullan"
+   },
+   "volume": {
+      "message": "Ses"
+   }
+}

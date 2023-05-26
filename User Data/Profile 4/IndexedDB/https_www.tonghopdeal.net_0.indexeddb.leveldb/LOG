@@ -1,0 +1,15 @@
+2021/01/20-22:15:47.212 3748 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.tonghopdeal.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/20-22:15:47.213 3748 Recovering log #4
+2021/01/20-22:15:47.213 3748 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.tonghopdeal.net_0.indexeddb.leveldb/000004.log 
+2021/01/20-22:17:11.565 21b0 Level-0 table #8: started
+2021/01/20-22:17:11.567 21b0 Level-0 table #8: 3381 bytes OK
+2021/01/20-22:17:11.569 21b0 Delete type=0 #4
+2021/01/20-22:17:11.569 21b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/20-22:17:11.569 21b0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 374 : 1
+2021/01/20-22:17:11.569 21b0 Compacting 1@1 + 1@2 files
+2021/01/20-22:17:11.571 21b0 Generated table #9@1: 94 keys, 2159 bytes
+2021/01/20-22:17:11.571 21b0 Compacted 1@1 + 1@2 files => 2159 bytes
+2021/01/20-22:17:11.573 21b0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/20-22:17:11.573 21b0 Delete type=2 #5
+2021/01/20-22:17:11.573 21b0 Delete type=2 #8
+2021/01/20-22:17:11.574 21b0 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 374 : 1 .. (end); will stop at (end)

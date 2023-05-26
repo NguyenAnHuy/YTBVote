@@ -1,0 +1,8 @@
+2021/04/27-16:49:46.446 22b8 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_champion.gg_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/27-16:49:46.447 22b8 Recovering log #50
+2021/04/27-16:49:46.447 22b8 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_champion.gg_0.indexeddb.leveldb/000050.log 
+2021/04/27-16:50:54.495 25d0 Level-0 table #54: started
+2021/04/27-16:50:54.495 25d0 Level-0 table #54: 0 bytes OK
+2021/04/27-16:50:54.496 25d0 Delete type=0 #50
+2021/04/27-16:50:54.496 25d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/04/27-16:50:54.496 25d0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

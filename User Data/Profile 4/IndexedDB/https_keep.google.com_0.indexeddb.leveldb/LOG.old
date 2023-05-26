@@ -1,0 +1,8 @@
+2021/02/09-13:06:24.499 3670 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_keep.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/09-13:06:24.500 3670 Recovering log #51
+2021/02/09-13:06:24.500 3670 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_keep.google.com_0.indexeddb.leveldb/000051.log 
+2021/02/09-13:11:58.071 5244 Level-0 table #55: started
+2021/02/09-13:11:58.071 5244 Level-0 table #55: 0 bytes OK
+2021/02/09-13:11:58.079 5244 Delete type=0 #51
+2021/02/09-13:11:58.080 5244 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/09-13:11:58.080 5244 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/12/18-11:50:56.363 55a0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_thoitrang.biz_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/18-12:51:59.802 604c Level-0 table #5: started
+2020/12/18-12:51:59.804 604c Level-0 table #5: 6233 bytes OK
+2020/12/18-12:51:59.806 604c Delete type=0 #3
+2020/12/18-12:51:59.806 604c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

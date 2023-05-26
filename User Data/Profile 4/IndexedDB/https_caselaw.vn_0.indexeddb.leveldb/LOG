@@ -1,0 +1,5 @@
+2020/12/04-01:41:21.934 6040 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_caselaw.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-01:43:37.330 3ba4 Level-0 table #5: started
+2020/12/04-01:43:37.334 3ba4 Level-0 table #5: 5752 bytes OK
+2020/12/04-01:43:37.336 3ba4 Delete type=0 #3
+2020/12/04-01:43:37.336 3ba4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

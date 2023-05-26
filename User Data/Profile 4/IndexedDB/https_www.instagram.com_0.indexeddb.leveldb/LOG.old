@@ -1,0 +1,8 @@
+2020/12/11-00:51:51.594 70f4 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/11-00:51:51.594 70f4 Recovering log #7
+2020/12/11-00:51:51.594 70f4 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/000007.log 
+2020/12/11-00:52:07.056 6308 Level-0 table #12: started
+2020/12/11-00:52:07.056 6308 Level-0 table #12: 0 bytes OK
+2020/12/11-00:52:07.060 6308 Delete type=0 #7
+2020/12/11-00:52:07.060 6308 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/11-00:52:07.060 6308 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

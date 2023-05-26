@@ -1,0 +1,8 @@
+2021/01/07-19:22:59.663 7840 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shop.adidas.jp_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/07-19:22:59.663 7840 Recovering log #22
+2021/01/07-19:22:59.663 7840 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shop.adidas.jp_0.indexeddb.leveldb/000022.log 
+2021/01/07-21:35:38.693 b730 Level-0 table #27: started
+2021/01/07-21:35:38.693 b730 Level-0 table #27: 0 bytes OK
+2021/01/07-21:35:38.694 b730 Delete type=0 #22
+2021/01/07-21:35:38.694 b730 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/07-21:35:38.695 b730 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
