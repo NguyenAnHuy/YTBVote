@@ -1,6 +1,0 @@
-2023/03/08-23:41:16.566 b34 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_qvc.vn_0.indexeddb.leveldb since it was missing.
-2023/03/08-23:41:16.571 b34 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_qvc.vn_0.indexeddb.leveldb/MANIFEST-000001
-2023/03/09-00:12:11.112 27e0 Level-0 table #5: started
-2023/03/09-00:12:11.114 27e0 Level-0 table #5: 7751 bytes OK
-2023/03/09-00:12:11.116 27e0 Delete type=0 #3
-2023/03/09-00:12:11.117 27e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

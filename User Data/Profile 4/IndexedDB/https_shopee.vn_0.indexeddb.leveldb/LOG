@@ -1,4 +1,0 @@
-2023/04/28-21:50:35.138 2148 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/28-21:50:35.139 2148 Recovering log #93
-2023/04/28-21:50:35.139 2148 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000093.log 
-2023/04/28-21:51:50.654 16ec Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

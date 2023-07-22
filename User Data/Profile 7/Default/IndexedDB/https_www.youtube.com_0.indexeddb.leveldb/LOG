@@ -1,7 +1,0 @@
-2021/05/12-00:17:00.841 3368 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/12-00:17:00.842 3368 Recovering log #3
-2021/05/12-00:17:00.843 3368 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
-2021/05/12-00:17:02.514 4988 Level-0 table #5: started
-2021/05/12-00:17:02.516 4988 Level-0 table #5: 20385 bytes OK
-2021/05/12-00:17:02.519 4988 Delete type=0 #3
-2021/05/12-00:17:02.520 4988 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

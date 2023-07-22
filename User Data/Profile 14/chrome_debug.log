@@ -1,7 +1,0 @@
-[15640:20832:0513/104146.873:INFO:CONSOLE(3718)] "LegacyDataMixin will be applied to all legacy elements.
-Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/cae8a583/jsbin/desktop_polymer.vflset/desktop_polymer.js (3718)
-[15640:20832:0513/104148.161:ERROR:device_event_log_impl.cc(214)] [10:41:48.162] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
-[15640:20832:0513/104148.163:ERROR:device_event_log_impl.cc(214)] [10:41:48.164] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[15640:20832:0513/104148.171:ERROR:device_event_log_impl.cc(214)] [10:41:48.172] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[15640:20832:0513/104151.002:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
-[15640:20832:0513/104448.148:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

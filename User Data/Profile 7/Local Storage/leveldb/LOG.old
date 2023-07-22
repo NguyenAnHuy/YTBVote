@@ -1,6 +1,0 @@
-2023/01/03-14:57:25.086 18fc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Local Storage\leveldb/MANIFEST-000001
-2023/01/03-14:57:25.088 18fc Recovering log #148
-2023/01/03-14:57:25.089 18fc Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Local Storage\leveldb/000148.log 
-2023/01/03-15:27:25.791 2264 Level-0 table #152: started
-2023/01/03-15:27:25.800 2264 Level-0 table #152: 22247 bytes OK
-2023/01/03-15:27:25.801 2264 Delete type=0 #148

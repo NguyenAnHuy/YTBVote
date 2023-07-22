@@ -1,9 +1,0 @@
-[22068:22104:0513/131029.601:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
-[22068:22104:0513/131029.620:INFO:CONSOLE(5551)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (5551)
-[22068:22104:0513/131030.042:INFO:CONSOLE(3718)] "LegacyDataMixin will be applied to all legacy elements.
-Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/cae8a583/jsbin/desktop_polymer.vflset/desktop_polymer.js (3718)
-[22068:22104:0513/131032.050:ERROR:device_event_log_impl.cc(214)] [13:10:32.051] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
-[22068:22104:0513/131032.056:ERROR:device_event_log_impl.cc(214)] [13:10:32.057] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
-[22068:22104:0513/131032.387:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620 (0)
-[22068:22104:0513/131032.507:ERROR:device_event_log_impl.cc(214)] [13:10:32.507] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
-[22068:22104:0513/131036.981:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

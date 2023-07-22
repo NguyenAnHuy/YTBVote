@@ -1,5 +1,0 @@
-[10720:3196:0512/001717.518:INFO:CONSOLE(5551)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (5551)
-[10720:3196:0512/001717.905:INFO:CONSOLE(3715)] "LegacyDataMixin will be applied to all legacy elements.
-Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/264d4061/jsbin/desktop_polymer.vflset/desktop_polymer.js (3715)
-[10720:3196:0512/001718.264:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/?gl=VN&tab=r1 (0)
-[10720:3196:0512/001720.040:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
