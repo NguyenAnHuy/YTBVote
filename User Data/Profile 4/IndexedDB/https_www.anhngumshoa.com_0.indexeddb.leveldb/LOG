@@ -1,5 +1,0 @@
-2021/01/05-19:05:21.760 27e0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.anhngumshoa.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/05-19:07:43.268 66d0 Level-0 table #5: started
-2021/01/05-19:07:43.270 66d0 Level-0 table #5: 5803 bytes OK
-2021/01/05-19:07:43.272 66d0 Delete type=0 #3
-2021/01/05-19:07:43.272 66d0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -60,7 +60,7 @@ from selenium.webdriver.chrome.service import Service
 from pathlib import Path
 
 root = Tk()
-root.wm_title("❤ Mai mông to ❤")
+root.wm_title("❤ Cundagyeu ❤")
 root.geometry('480x480+1000+350')
 
 #key=""
@@ -200,15 +200,21 @@ def program_2(key):
 		try:
 			profile_number='Profile'+' '+str(i)
 			print(profile_number)
-			chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+			# chrome_driver_path = str(Path().absolute()) + '\\driver offline\\chromedriver.exe'
+			ser=Service(ChromeDriverManager().install())		# hàm đưa ra vị trí file chromedriver.exe
+
 			chrome_options = webdriver.ChromeOptions()
+			chrome_options.add_experimental_option("detach", True)	# Giữ trình duyệt ko bị đóng
+
 
 			#chrome_options.add_argument(r"--user-data-dir=D:\An Huy\My Project Offline\YTB comunity\User Data")
 			chrome_options.add_argument(r'--user-data-dir='+ str(Path().absolute())+'\\User Data')
 			chrome_options.add_argument(r'--profile-directory='+profile_number)
 			#Chế độ chạy ẩn_ ko thấy like được
 			#chrome_options.headless = True
-			driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
+			# driver = webdriver.Chrome(options=chrome_options,executable_path=chrome_driver_path)
+			driver = webdriver.Chrome(service=ser, options=chrome_options)
+			
 
 			sleep(1)
 			current_url = etr_link_cmt_2.get()

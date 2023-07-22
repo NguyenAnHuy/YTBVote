@@ -1,5 +1,0 @@
-2020/11/13-11:02:12.830 4f98 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_qc.789club.org_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/13-11:02:16.028 4e04 Level-0 table #5: started
-2020/11/13-11:02:16.031 4e04 Level-0 table #5: 5685 bytes OK
-2020/11/13-11:02:16.033 4e04 Delete type=0 #3
-2020/11/13-11:02:16.033 4e04 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2021/01/20-22:00:41.500 3420 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.tonghopdeal.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/20-22:15:46.052 21b0 Level-0 table #5: started
-2021/01/20-22:15:46.054 21b0 Level-0 table #5: 5237 bytes OK
-2021/01/20-22:15:46.056 21b0 Delete type=0 #3
-2021/01/20-22:15:46.056 21b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

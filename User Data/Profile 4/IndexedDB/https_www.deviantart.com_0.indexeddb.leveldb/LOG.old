@@ -1,5 +1,4 @@
-2020/11/03-01:15:30.756 3ddc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.deviantart.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/03-02:07:17.586 78fc Level-0 table #5: started
-2020/11/03-02:07:17.588 78fc Level-0 table #5: 16052 bytes OK
-2020/11/03-02:07:17.590 78fc Delete type=0 #3
-2020/11/03-02:07:17.591 78fc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/15-17:36:24.572 2cf0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.deviantart.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/15-17:36:24.572 2cf0 Recovering log #13
+2023/04/15-17:36:24.572 2cf0 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.deviantart.com_0.indexeddb.leveldb/000013.log 
+2023/04/15-17:36:24.572 2cf0 Delete type=2 #11

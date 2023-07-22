@@ -1,35 +1,38 @@
-2021/05/11-22:57:05.022 178c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/11-22:57:05.022 178c Recovering log #3496
-2021/05/11-22:57:05.022 178c Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/003496.log 
-2021/05/11-22:57:05.110 164c Level-0 table #3501: started
-2021/05/11-22:57:05.114 164c Level-0 table #3501: 567 bytes OK
-2021/05/11-22:57:05.115 164c Delete type=0 #3496
-2021/05/11-22:57:05.116 164c Manual compaction at level-0 from ' \x97\x04\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x98\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/05/11-22:57:11.816 178c Compacting 1@1 + 1@2 files
-2021/05/11-22:57:11.843 178c Generated table #3502@1: 37721 keys, 715543 bytes
-2021/05/11-22:57:11.843 178c Compacted 1@1 + 1@2 files => 715543 bytes
-2021/05/11-22:57:11.844 178c compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/11-22:57:11.845 178c Delete type=2 #3498
-2021/05/11-22:57:11.845 178c Delete type=2 #3501
-2021/05/11-22:59:41.787 37c0 Level-0 table #3504: started
-2021/05/11-22:59:41.796 37c0 Level-0 table #3504: 226699 bytes OK
-2021/05/11-22:59:41.797 37c0 Delete type=0 #3500
-2021/05/11-22:59:41.797 37c0 Manual compaction at level-0 from ' \x98\x04\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x99\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/05/11-22:59:47.620 4330 Compacting 1@1 + 1@2 files
-2021/05/11-22:59:47.646 4330 Generated table #3505@1: 37855 keys, 718608 bytes
-2021/05/11-22:59:47.646 4330 Compacted 1@1 + 1@2 files => 718608 bytes
-2021/05/11-22:59:47.647 4330 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/11-22:59:47.647 4330 Delete type=2 #3502
-2021/05/11-22:59:47.647 4330 Delete type=2 #3504
-2021/05/11-23:22:48.483 31a8 Level-0 table #3507: started
-2021/05/11-23:22:48.486 31a8 Level-0 table #3507: 50647 bytes OK
-2021/05/11-23:22:48.487 31a8 Delete type=0 #3503
-2021/05/11-23:22:48.488 31a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/05/11-23:22:48.488 31a8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x03\x01\x11\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00m\x00i\x00n\x00i\x00-\x00r\x00o\x00o\x00t' @ 3013099 : 0
-2021/05/11-23:22:48.488 31a8 Compacting 1@1 + 1@2 files
-2021/05/11-23:22:48.512 31a8 Generated table #3508@1: 37885 keys, 719049 bytes
-2021/05/11-23:22:48.512 31a8 Compacted 1@1 + 1@2 files => 719049 bytes
-2021/05/11-23:22:48.513 31a8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/11-23:22:48.514 31a8 Delete type=2 #3505
-2021/05/11-23:22:48.514 31a8 Delete type=2 #3507
-2021/05/11-23:22:48.514 31a8 Manual compaction at level-1 from '\x00\x05\x01\x03\x01\x11\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00m\x00i\x00n\x00i\x00-\x00r\x00o\x00o\x00t' @ 3013099 : 0 .. (end); will stop at (end)
+2023/04/28-21:50:29.748 16ec Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/28-21:50:29.748 16ec Recovering log #86
+2023/04/28-21:50:29.749 16ec Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000086.log 
+2023/04/28-21:50:29.759 1128 Level-0 table #90: started
+2023/04/28-21:50:29.760 1128 Level-0 table #90: 5847 bytes OK
+2023/04/28-21:50:29.762 1128 Delete type=0 #86
+2023/04/28-21:50:29.762 2148 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x00\x00\x05' @ 67206 : 1
+2023/04/28-21:50:29.762 2148 Compacting 1@0 + 1@1 files
+2023/04/28-21:50:29.769 2148 Generated table #91@0: 1857 keys, 336125 bytes
+2023/04/28-21:50:29.769 2148 Compacted 1@0 + 1@1 files => 336125 bytes
+2023/04/28-21:50:29.770 2148 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/28-21:50:29.770 2148 Delete type=2 #90
+2023/04/28-21:50:29.770 2148 Manual compaction at level-0 from '\x00\x1d\x00\x00\x05' @ 67206 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/28-21:50:31.765 16ec Compacting 1@1 + 1@2 files
+2023/04/28-21:50:31.772 16ec Level-0 table #94: started
+2023/04/28-21:50:31.775 16ec Level-0 table #94: 256 bytes OK
+2023/04/28-21:50:31.776 16ec Delete type=2 #87
+2023/04/28-21:50:31.776 16ec Delete type=0 #89
+2023/04/28-21:50:31.795 16ec Generated table #92@1: 3262 keys, 1305775 bytes
+2023/04/28-21:50:31.795 16ec Compacted 1@1 + 1@2 files => 1305775 bytes
+2023/04/28-21:50:31.796 16ec compacted to: files[ 1 0 1 0 0 0 0 ]
+2023/04/28-21:50:31.797 16ec Delete type=2 #84
+2023/04/28-21:50:31.797 16ec Delete type=2 #91
+2023/04/28-21:50:31.797 1128 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 67220 : 0
+2023/04/28-21:50:31.797 1128 Compacting 1@0 + 0@1 files
+2023/04/28-21:50:31.801 1128 Generated table #95@0: 4 keys, 256 bytes
+2023/04/28-21:50:31.801 1128 Compacted 1@0 + 0@1 files => 256 bytes
+2023/04/28-21:50:31.802 1128 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/28-21:50:31.803 1128 Delete type=2 #94
+2023/04/28-21:50:31.803 16ec Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 67220 : 0 .. (end); will stop at (end)
+2023/04/28-21:50:31.803 16ec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 67220 : 0
+2023/04/28-21:50:31.803 16ec Compacting 1@1 + 1@2 files
+2023/04/28-21:50:31.821 16ec Generated table #96@1: 3260 keys, 1305750 bytes
+2023/04/28-21:50:31.821 16ec Compacted 1@1 + 1@2 files => 1305750 bytes
+2023/04/28-21:50:31.822 16ec compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/28-21:50:31.823 16ec Delete type=2 #92
+2023/04/28-21:50:31.823 16ec Delete type=2 #95
+2023/04/28-21:50:31.823 16ec Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 67220 : 0 .. (end); will stop at (end)

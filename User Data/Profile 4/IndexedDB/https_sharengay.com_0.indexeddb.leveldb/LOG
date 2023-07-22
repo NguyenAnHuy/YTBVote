@@ -1,5 +1,0 @@
-2021/02/24-19:25:59.779 3fb0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_sharengay.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/24-19:27:06.827 1cbc Level-0 table #5: started
-2021/02/24-19:27:06.829 1cbc Level-0 table #5: 6153 bytes OK
-2021/02/24-19:27:06.831 1cbc Delete type=0 #3
-2021/02/24-19:27:06.831 1cbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

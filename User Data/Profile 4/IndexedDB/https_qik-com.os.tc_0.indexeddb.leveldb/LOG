@@ -1,5 +1,0 @@
-2021/02/07-20:34:03.874 a8 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_qik-com.os.tc_0.indexeddb.leveldb/MANIFEST-000001
-2021/02/07-20:35:06.785 a8 Level-0 table #5: started
-2021/02/07-20:35:06.787 a8 Level-0 table #5: 8135 bytes OK
-2021/02/07-20:35:06.790 a8 Delete type=0 #3
-2021/02/07-20:35:06.790 a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

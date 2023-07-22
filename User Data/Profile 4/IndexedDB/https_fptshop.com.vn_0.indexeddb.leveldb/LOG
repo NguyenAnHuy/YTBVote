@@ -1,8 +1,6 @@
-2021/04/16-14:38:35.266 221c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fptshop.com.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/16-14:38:35.267 221c Recovering log #15
-2021/04/16-14:38:35.267 221c Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fptshop.com.vn_0.indexeddb.leveldb/000015.log 
-2021/04/16-14:45:32.150 23ec Level-0 table #20: started
-2021/04/16-14:45:32.150 23ec Level-0 table #20: 0 bytes OK
-2021/04/16-14:45:32.152 23ec Delete type=0 #15
-2021/04/16-14:45:32.152 23ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/04/16-14:45:32.152 23ec Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2023/05/07-15:12:42.729 2a80 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fptshop.com.vn_0.indexeddb.leveldb since it was missing.
+2023/05/07-15:12:42.736 2a80 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fptshop.com.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/07-15:41:58.734 2a88 Level-0 table #5: started
+2023/05/07-15:41:58.736 2a88 Level-0 table #5: 5421 bytes OK
+2023/05/07-15:41:58.739 2a88 Delete type=0 #3
+2023/05/07-15:41:58.739 2a88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

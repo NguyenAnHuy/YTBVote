@@ -1,5 +1,0 @@
-2020/12/29-09:13:39.335 1df8 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_docs.botbanhang.vn_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/29-09:22:52.067 3a18 Level-0 table #5: started
-2020/12/29-09:22:52.069 3a18 Level-0 table #5: 1153 bytes OK
-2020/12/29-09:22:52.071 3a18 Delete type=0 #3
-2020/12/29-09:22:52.071 3a18 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

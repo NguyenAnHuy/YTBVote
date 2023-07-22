@@ -1,29 +1,9 @@
-[0514/144213.105:INFO:CONSOLE(3730)] "LegacyDataMixin will be applied to all legacy elements.
-Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/8035fa95/jsbin/desktop_polymer_legacy_browsers.vflset/desktop_polymer_legacy_browsers.js (3730)
-[0514/144239.422:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0514/144239.422:ERROR:cache_util.cc(144)] Unable to move cache folder D:\An Huy\My Project Offline\YTB comunity\User Data\Default\GPUCache to D:\An Huy\My Project Offline\YTB comunity\User Data\Default\old_GPUCache_000
-[0514/144239.422:ERROR:disk_cache.cc(184)] Unable to create cache
-[0514/144239.423:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
-[0514/144242.417:INFO:CONSOLE(3730)] "LegacyDataMixin will be applied to all legacy elements.
-Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/8035fa95/jsbin/desktop_polymer_legacy_browsers.vflset/desktop_polymer_legacy_browsers.js (3730)
-[0514/144242.429:ERROR:service_worker_storage.cc(1895)] Failed to delete the database: Database IO error
-[0514/144253.489:ERROR:database.cc(1707)] Quota sqlite error 5, errno 33: database is locked, sql: UPDATE OriginInfoTable SET last_modified_time = ? WHERE origin = ? AND type = ?
-[0514/144253.714:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144255.727:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144257.733:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144259.756:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144304.480:ERROR:database.cc(1707)] Quota sqlite error 5, errno 33: database is locked, sql: COMMIT
-[0514/144309.131:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0514/144309.131:ERROR:cache_util.cc(144)] Unable to move cache folder D:\An Huy\My Project Offline\YTB comunity\User Data\Default\GPUCache to D:\An Huy\My Project Offline\YTB comunity\User Data\Default\old_GPUCache_000
-[0514/144309.132:ERROR:disk_cache.cc(184)] Unable to create cache
-[0514/144309.132:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
-[0514/144312.139:ERROR:service_worker_storage.cc(1895)] Failed to delete the database: Database IO error
-[0514/144312.324:INFO:CONSOLE(3730)] "LegacyDataMixin will be applied to all legacy elements.
-Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/8035fa95/jsbin/desktop_polymer_legacy_browsers.vflset/desktop_polymer_legacy_browsers.js (3730)
-[0514/144323.410:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144325.414:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144327.420:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144329.425:ERROR:leveldb_factory.cc(91)] Failed to open LevelDB database from D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb,IO error: D:\An Huy\My Project Offline\YTB comunity\User Data\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0514/144334.589:ERROR:database.cc(1707)] Quota sqlite error 5, errno 33: database is locked, sql: COMMIT
-[0514/172826.929:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0514/185540.707:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[22068:22104:0513/131029.601:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[22068:22104:0513/131029.620:INFO:CONSOLE(5551)] "crbug/1173575, non-JS module files deprecated.", source: chrome-error://chromewebdata/ (5551)
+[22068:22104:0513/131030.042:INFO:CONSOLE(3718)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/cae8a583/jsbin/desktop_polymer.vflset/desktop_polymer.js (3718)
+[22068:22104:0513/131032.050:ERROR:device_event_log_impl.cc(214)] [13:10:32.051] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+[22068:22104:0513/131032.056:ERROR:device_event_log_impl.cc(214)] [13:10:32.057] USB: usb_device_handle_win.cc:1054 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[22068:22104:0513/131032.387:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=en&ec=65620 (0)
+[22068:22104:0513/131032.507:ERROR:device_event_log_impl.cc(214)] [13:10:32.507] Bluetooth: bluetooth_adapter_winrt.cc:1072 Getting Default Adapter failed.
+[22068:22104:0513/131036.981:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

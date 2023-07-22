@@ -1,3 +1,2 @@
-2021/05/12-00:26:53.390 4634 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb/MANIFEST-000001
-2021/05/12-00:26:53.391 4634 Recovering log #3
-2021/05/12-00:26:53.392 4634 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb/000003.log 
+2023/05/26-11:28:16.913 263c Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb since it was missing.
+2023/05/26-11:28:16.930 263c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\Storage\ext\nmmhkkegccagdldgiimedpiccmgmieda\def\Local Storage\leveldb/MANIFEST-000001

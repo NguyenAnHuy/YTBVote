@@ -1,5 +1,0 @@
-2020/12/18-12:52:18.410 2b58 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_aristinoos.os.tc_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/18-12:53:33.854 2b58 Level-0 table #5: started
-2020/12/18-12:53:33.857 2b58 Level-0 table #5: 8115 bytes OK
-2020/12/18-12:53:33.860 2b58 Delete type=0 #3
-2020/12/18-12:53:33.860 2b58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

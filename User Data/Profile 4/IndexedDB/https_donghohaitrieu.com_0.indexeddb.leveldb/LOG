@@ -1,15 +1,3 @@
-2020/11/26-08:31:08.345 5b04 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_donghohaitrieu.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/26-08:31:08.345 5b04 Recovering log #4
-2020/11/26-08:31:08.345 5b04 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_donghohaitrieu.com_0.indexeddb.leveldb/000004.log 
-2020/11/26-08:49:10.644 49e4 Level-0 table #8: started
-2020/11/26-08:49:10.646 49e4 Level-0 table #8: 1989 bytes OK
-2020/11/26-08:49:10.649 49e4 Delete type=0 #4
-2020/11/26-08:49:10.649 49e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/11/26-08:49:10.649 49e4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\x05' @ 223 : 1
-2020/11/26-08:49:10.649 49e4 Compacting 1@1 + 1@2 files
-2020/11/26-08:49:10.651 49e4 Generated table #9@1: 58 keys, 1778 bytes
-2020/11/26-08:49:10.651 49e4 Compacted 1@1 + 1@2 files => 1778 bytes
-2020/11/26-08:49:10.652 49e4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/11/26-08:49:10.653 49e4 Delete type=2 #5
-2020/11/26-08:49:10.653 49e4 Delete type=2 #8
-2020/11/26-08:49:10.653 49e4 Manual compaction at level-1 from '\x00\x03\x00\x00\x05' @ 223 : 1 .. (end); will stop at (end)
+2023/03/25-23:07:05.217 1018 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_donghohaitrieu.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/25-23:07:05.218 1018 Recovering log #4
+2023/03/25-23:07:05.218 1018 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_donghohaitrieu.com_0.indexeddb.leveldb/000004.log 

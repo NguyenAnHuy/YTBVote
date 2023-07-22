@@ -1,15 +1,7 @@
-2021/03/31-00:16:17.785 4198 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hellobacsi.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/03/31-00:16:17.785 4198 Recovering log #11
-2021/03/31-00:16:17.785 4198 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hellobacsi.com_0.indexeddb.leveldb/000011.log 
-2021/03/31-00:20:47.900 1028 Level-0 table #15: started
-2021/03/31-00:20:47.902 1028 Level-0 table #15: 203 bytes OK
-2021/03/31-00:20:47.905 1028 Delete type=0 #11
-2021/03/31-00:20:47.905 1028 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/03/31-00:20:47.905 1028 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 131 : 1
-2021/03/31-00:20:47.905 1028 Compacting 1@1 + 1@2 files
-2021/03/31-00:20:47.907 1028 Generated table #16@1: 38 keys, 1100 bytes
-2021/03/31-00:20:47.907 1028 Compacted 1@1 + 1@2 files => 1100 bytes
-2021/03/31-00:20:47.909 1028 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/03/31-00:20:47.909 1028 Delete type=2 #9
-2021/03/31-00:20:47.909 1028 Delete type=2 #15
-2021/03/31-00:20:47.910 1028 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 131 : 1 .. (end); will stop at (end)
+2023/03/30-23:58:06.043 31c4 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hellobacsi.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/30-23:58:06.044 31c4 Recovering log #3
+2023/03/30-23:58:06.045 31c4 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_hellobacsi.com_0.indexeddb.leveldb/000003.log 
+2023/03/30-23:59:01.651 1f2c Level-0 table #5: started
+2023/03/30-23:59:01.653 1f2c Level-0 table #5: 6516 bytes OK
+2023/03/30-23:59:01.655 1f2c Delete type=0 #3
+2023/03/30-23:59:01.655 1f2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

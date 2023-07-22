@@ -1,5 +1,0 @@
-2021/01/20-22:15:52.228 3748 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_travel.com.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/20-22:17:11.531 21b0 Level-0 table #5: started
-2021/01/20-22:17:11.534 21b0 Level-0 table #5: 5145 bytes OK
-2021/01/20-22:17:11.536 21b0 Delete type=0 #3
-2021/01/20-22:17:11.536 21b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

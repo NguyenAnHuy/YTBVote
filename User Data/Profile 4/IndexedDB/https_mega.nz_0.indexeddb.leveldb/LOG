@@ -1,5 +1,6 @@
-2020/11/27-11:06:44.800 a774 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/27-14:21:59.363 2c38 Level-0 table #5: started
-2020/11/27-14:21:59.364 2c38 Level-0 table #5: 1141 bytes OK
-2020/11/27-14:21:59.366 2c38 Delete type=0 #3
-2020/11/27-14:21:59.367 2c38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/16-18:47:38.507 2774 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_mega.nz_0.indexeddb.leveldb since it was missing.
+2023/04/16-18:47:38.513 2774 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/16-18:48:03.232 277c Level-0 table #5: started
+2023/04/16-18:48:03.234 277c Level-0 table #5: 64238 bytes OK
+2023/04/16-18:48:03.236 277c Delete type=0 #3
+2023/04/16-18:48:03.237 277c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,5 +1,0 @@
-2020/12/09-12:50:46.546 2f60 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_red88.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/09-12:50:52.067 4620 Level-0 table #5: started
-2020/12/09-12:50:52.070 4620 Level-0 table #5: 5486 bytes OK
-2020/12/09-12:50:52.072 4620 Delete type=0 #3
-2020/12/09-12:50:52.072 4620 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

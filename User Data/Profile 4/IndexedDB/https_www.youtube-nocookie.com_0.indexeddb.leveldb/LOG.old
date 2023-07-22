@@ -1,5 +1,2 @@
-2020/11/22-18:15:05.662 a7b4 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/22-18:15:07.674 a464 Level-0 table #5: started
-2020/11/22-18:15:07.676 a464 Level-0 table #5: 421 bytes OK
-2020/11/22-18:15:07.678 a464 Delete type=0 #3
-2020/11/22-18:15:07.679 a464 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/16-23:23:54.159 2f98 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/04/16-23:23:54.165 2f98 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001

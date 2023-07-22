@@ -1,5 +1,0 @@
-2020/11/30-00:24:13.797 9140 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_e.widgetbot.io_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/30-00:27:01.564 8bb4 Level-0 table #5: started
-2020/11/30-00:27:01.566 8bb4 Level-0 table #5: 5541 bytes OK
-2020/11/30-00:27:01.568 8bb4 Delete type=0 #3
-2020/11/30-00:27:01.568 8bb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

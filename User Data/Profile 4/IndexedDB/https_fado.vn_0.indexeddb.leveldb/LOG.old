@@ -1,5 +1,0 @@
-2020/11/18-20:13:31.668 3ea0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_fado.vn_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/18-20:14:27.229 5e34 Level-0 table #5: started
-2020/11/18-20:14:27.231 5e34 Level-0 table #5: 3253 bytes OK
-2020/11/18-20:14:27.233 5e34 Delete type=0 #3
-2020/11/18-20:14:27.234 5e34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

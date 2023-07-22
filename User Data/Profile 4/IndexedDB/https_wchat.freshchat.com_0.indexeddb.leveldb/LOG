@@ -1,5 +1,6 @@
-2020/12/03-12:15:52.464 3244 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/03-12:15:56.874 3e14 Level-0 table #5: started
-2020/12/03-12:15:56.876 3e14 Level-0 table #5: 9582 bytes OK
-2020/12/03-12:15:56.878 3e14 Delete type=0 #3
-2020/12/03-12:15:56.879 3e14 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/14-23:14:43.457 25e4 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_wchat.freshchat.com_0.indexeddb.leveldb since it was missing.
+2023/05/14-23:14:43.464 25e4 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_wchat.freshchat.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/14-23:57:56.208 19bc Level-0 table #5: started
+2023/05/14-23:57:56.210 19bc Level-0 table #5: 11186 bytes OK
+2023/05/14-23:57:56.213 19bc Delete type=0 #3
+2023/05/14-23:57:56.214 19bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,8 +1,0 @@
-2020/12/04-00:43:35.243 5788 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/04-00:43:35.244 5788 Recovering log #35
-2020/12/04-00:43:35.244 5788 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_youtube.googleapis.com_0.indexeddb.leveldb/000035.log 
-2020/12/04-00:43:37.255 5788 Level-0 table #39: started
-2020/12/04-00:43:37.255 5788 Level-0 table #39: 0 bytes OK
-2020/12/04-00:43:37.259 5788 Delete type=0 #35
-2020/12/04-00:43:37.259 5788 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/04-00:43:37.259 5788 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

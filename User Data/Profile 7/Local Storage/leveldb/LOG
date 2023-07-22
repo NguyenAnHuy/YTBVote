@@ -1,3 +1,5 @@
-2021/05/13-21:51:15.393 f48 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Local Storage\leveldb/MANIFEST-000001
-2021/05/13-21:51:15.394 f48 Recovering log #3
-2021/05/13-21:51:15.395 f48 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Local Storage\leveldb/000003.log 
+2023/03/05-00:35:41.350 3324 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Local Storage\leveldb/MANIFEST-000001
+2023/03/05-00:35:41.351 3324 Recovering log #151
+2023/03/05-00:35:41.353 3324 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 7\Local Storage\leveldb/000151.log 
+2023/03/05-00:36:57.630 21bc Level-0 table #155: started
+2023/03/05-00:36:57.636 21bc Level-0 table #155: 26364 bytes OK

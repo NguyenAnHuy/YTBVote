@@ -1,15 +1,2 @@
-2021/04/18-22:58:30.592 604 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.lazada.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/04/18-22:58:30.593 604 Recovering log #67
-2021/04/18-22:58:30.593 604 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.lazada.vn_0.indexeddb.leveldb/000067.log 
-2021/04/18-22:58:37.617 604 Level-0 table #72: started
-2021/04/18-22:58:37.618 604 Level-0 table #72: 2577 bytes OK
-2021/04/18-22:58:37.620 604 Delete type=0 #67
-2021/04/18-22:58:37.620 604 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/04/18-22:58:37.621 604 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xa0\xebF[\x8ewB\x00\x01h\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00v\x00n\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x007\x00e\x000\x003\x008\x005\x00a\x003\x007\x008\x003\x00b\x006\x002\x00f\x004\x002\x002\x001\x000\x009\x00c\x00f\x004\x004\x005\x000\x009\x006\x00a\x007\x00c\x00.\x00j\x00p\x00g\x00_\x001\x002\x000\x000\x00x\x001\x002\x000\x000\x00q\x008\x000\x00.\x00j\x00p\x00g' @ 30090 : 1
-2021/04/18-22:58:37.621 604 Compacting 1@1 + 1@2 files
-2021/04/18-22:58:37.625 604 Generated table #73@1: 778 keys, 88968 bytes
-2021/04/18-22:58:37.625 604 Compacted 1@1 + 1@2 files => 88968 bytes
-2021/04/18-22:58:37.625 604 compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/04/18-22:58:37.626 604 Delete type=2 #69
-2021/04/18-22:58:37.626 604 Delete type=2 #72
-2021/04/18-22:58:37.626 604 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xa0\xebF[\x8ewB\x00\x01h\x00i\x00m\x00a\x00g\x00e\x00-\x00c\x00a\x00c\x00h\x00e\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00v\x00n\x00-\x00t\x00e\x00s\x00t\x00-\x001\x001\x00.\x00s\x00l\x00a\x00t\x00i\x00c\x00.\x00n\x00e\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x007\x00e\x000\x003\x008\x005\x00a\x003\x007\x008\x003\x00b\x006\x002\x00f\x004\x002\x002\x001\x000\x009\x00c\x00f\x004\x004\x005\x000\x009\x006\x00a\x007\x00c\x00.\x00j\x00p\x00g\x00_\x001\x002\x000\x000\x00x\x001\x002\x000\x000\x00q\x008\x000\x00.\x00j\x00p\x00g' @ 30090 : 1 .. (end); will stop at (end)
+2023/04/03-00:01:59.445 25f0 Creating DB C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.lazada.vn_0.indexeddb.leveldb since it was missing.
+2023/04/03-00:01:59.451 25f0 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_www.lazada.vn_0.indexeddb.leveldb/MANIFEST-000001

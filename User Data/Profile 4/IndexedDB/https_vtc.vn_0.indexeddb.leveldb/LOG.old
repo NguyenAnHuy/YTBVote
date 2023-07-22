@@ -1,5 +1,0 @@
-2021/01/20-00:45:52.257 ab40 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_vtc.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/20-00:46:27.631 c0b4 Level-0 table #5: started
-2021/01/20-00:46:27.633 c0b4 Level-0 table #5: 5768 bytes OK
-2021/01/20-00:46:27.635 c0b4 Delete type=0 #3
-2021/01/20-00:46:27.635 c0b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

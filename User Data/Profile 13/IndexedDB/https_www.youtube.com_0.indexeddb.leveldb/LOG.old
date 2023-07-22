@@ -1,12 +1,15 @@
-2021/10/26-21:43:54.849 4550 Reusing MANIFEST D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 13\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/10/26-21:43:54.850 4550 Recovering log #40
-2021/10/26-21:43:54.863 4550 Reusing old log D:\An Huy\My Project Offline\YTB comunity\FILE EXE YOUTUBE\User Data\Profile 13\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000040.log 
-2021/10/26-21:44:37.436 2cac Level-0 table #45: started
-2021/10/26-21:44:37.451 2cac Level-0 table #45: 1032666 bytes OK
-2021/10/26-21:44:37.453 2cac Delete type=0 #40
-2021/10/26-21:44:38.399 367c Compacting 1@1 + 1@2 files
-2021/10/26-21:44:38.408 367c Generated table #46@1: 1824 keys, 102879 bytes
-2021/10/26-21:44:38.408 367c Compacted 1@1 + 1@2 files => 102879 bytes
-2021/10/26-21:44:38.409 367c compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/10/26-21:44:38.410 367c Delete type=2 #42
-2021/10/26-21:44:38.410 367c Delete type=2 #45
+2021/05/13-16:46:37.189 7e90 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 13\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/13-16:46:37.189 7e90 Recovering log #30
+2021/05/13-16:46:37.191 7e90 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 13\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000030.log 
+2021/05/13-16:47:25.214 7040 Level-0 table #35: started
+2021/05/13-16:47:25.219 7040 Level-0 table #35: 129989 bytes OK
+2021/05/13-16:47:25.220 7040 Delete type=0 #30
+2021/05/13-16:47:25.221 7040 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/05/13-16:47:25.221 7040 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00*\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00`u\xefQ\x96wB\x00\x03\x00\x00\x00\x00\x00\xc0P@' @ 19812 : 1
+2021/05/13-16:47:25.221 7040 Compacting 1@1 + 1@2 files
+2021/05/13-16:47:25.225 7040 Generated table #36@1: 631 keys, 59455 bytes
+2021/05/13-16:47:25.225 7040 Compacted 1@1 + 1@2 files => 59455 bytes
+2021/05/13-16:47:25.226 7040 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/13-16:47:25.226 7040 Delete type=2 #32
+2021/05/13-16:47:25.226 7040 Delete type=2 #35
+2021/05/13-16:47:25.227 7040 Manual compaction at level-1 from '\x00*\x03\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00`u\xefQ\x96wB\x00\x03\x00\x00\x00\x00\x00\xc0P@' @ 19812 : 1 .. (end); will stop at (end)

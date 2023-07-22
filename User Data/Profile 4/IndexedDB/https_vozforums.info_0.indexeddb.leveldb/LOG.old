@@ -1,5 +1,0 @@
-2021/01/08-22:20:59.034 3300 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_vozforums.info_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/08-23:00:11.578 2e4c Level-0 table #5: started
-2021/01/08-23:00:11.582 2e4c Level-0 table #5: 1928 bytes OK
-2021/01/08-23:00:11.584 2e4c Delete type=0 #3
-2021/01/08-23:00:11.584 2e4c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

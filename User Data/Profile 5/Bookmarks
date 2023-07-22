@@ -1,15 +1,8 @@
 {
-   "checksum": "99576c8a262db1b27bea4bcb4f34de39",
+   "checksum": "ef780c35b3fb55e18411fed45ad2dabb",
    "roots": {
       "bookmark_bar": {
-         "children": [ {
-            "date_added": "13264872878109909",
-            "guid": "82824f82-cec4-441c-9c7b-97936db13b22",
-            "id": "5",
-            "name": "FunnyMike - YouTube",
-            "type": "url",
-            "url": "https://www.youtube.com/channel/UC3xWCpnWd8l7HaiqfvtzIhQ/community?lc=Ugz9WZBkqyjVwx0cJ9N4AaABAg&lb=UgxDqscdgQvEZ6d1pR54AaABCQ"
-         } ],
+         "children": [  ],
          "date_added": "13264871122441542",
          "date_modified": "13264872878109909",
          "guid": "00000000-0000-4000-a000-000000000002",

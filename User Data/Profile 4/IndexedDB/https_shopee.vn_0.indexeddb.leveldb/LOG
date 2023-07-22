@@ -1,26 +1,4 @@
-2021/05/11-23:23:36.132 9fc Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/05/11-23:23:36.132 9fc Recovering log #3506
-2021/05/11-23:23:36.133 9fc Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/003506.log 
-2021/05/11-23:23:36.212 432c Level-0 table #3511: started
-2021/05/11-23:23:36.215 432c Level-0 table #3511: 585 bytes OK
-2021/05/11-23:23:36.217 432c Delete type=0 #3506
-2021/05/11-23:23:36.217 432c Manual compaction at level-0 from ' \x99\x04\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x9a\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2021/05/11-23:23:41.185 4f6c Level-0 table #3513: started
-2021/05/11-23:23:41.188 4f6c Level-0 table #3513: 4919 bytes OK
-2021/05/11-23:23:41.190 4f6c Delete type=0 #3510
-2021/05/11-23:23:41.190 4f6c Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x0c\x00m\x00i\x00n\x00i\x00-\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 3014699 : 1
-2021/05/11-23:23:41.190 4f6c Compacting 1@0 + 1@1 files
-2021/05/11-23:23:41.192 4f6c Generated table #3514@0: 58 keys, 2269 bytes
-2021/05/11-23:23:41.192 4f6c Compacted 1@0 + 1@1 files => 2269 bytes
-2021/05/11-23:23:41.193 4f6c compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/05/11-23:23:41.193 4f6c Delete type=2 #3511
-2021/05/11-23:23:41.193 4f6c Delete type=2 #3513
-2021/05/11-23:23:41.193 4f6c Manual compaction at level-0 from '\x00\x05\x01\x02\x01\x0c\x00m\x00i\x00n\x00i\x00-\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 3014699 : 1 .. (end); will stop at (end)
-2021/05/11-23:23:41.193 4f6c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x05\x01\x02\x01\x0c\x00m\x00i\x00n\x00i\x00-\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 3014699 : 1
-2021/05/11-23:23:41.193 4f6c Compacting 1@1 + 1@2 files
-2021/05/11-23:23:41.218 4f6c Generated table #3515@1: 37887 keys, 719055 bytes
-2021/05/11-23:23:41.218 4f6c Compacted 1@1 + 1@2 files => 719055 bytes
-2021/05/11-23:23:41.219 4f6c compacted to: files[ 0 0 1 0 0 0 0 ]
-2021/05/11-23:23:41.219 4f6c Delete type=2 #3508
-2021/05/11-23:23:41.219 4f6c Delete type=2 #3514
-2021/05/11-23:23:41.220 4f6c Manual compaction at level-1 from '\x00\x05\x01\x02\x01\x0c\x00m\x00i\x00n\x00i\x00-\x00s\x00e\x00s\x00s\x00i\x00o\x00n' @ 3014699 : 1 .. (end); will stop at (end)
+2023/04/28-21:50:35.138 2148 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/28-21:50:35.139 2148 Recovering log #93
+2023/04/28-21:50:35.139 2148 Reusing old log C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_shopee.vn_0.indexeddb.leveldb/000093.log 
+2023/04/28-21:51:50.654 16ec Manual compaction at level-0 from '\x00\x1e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1f\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,5 +1,0 @@
-2021/01/03-22:41:14.860 634c Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_raspberrypi.vn_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/03-23:11:19.390 6190 Level-0 table #5: started
-2021/01/03-23:11:19.392 6190 Level-0 table #5: 5905 bytes OK
-2021/01/03-23:11:19.394 6190 Delete type=0 #3
-2021/01/03-23:11:19.394 6190 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

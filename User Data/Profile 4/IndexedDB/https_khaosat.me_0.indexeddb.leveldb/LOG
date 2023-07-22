@@ -1,5 +1,0 @@
-2020/11/25-23:03:20.800 5604 Reusing MANIFEST C:\Users\Huy\AppData\Local\Google\Chrome\User Data\Profile 4\IndexedDB\https_khaosat.me_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/25-23:41:57.961 58f4 Level-0 table #5: started
-2020/11/25-23:41:57.963 58f4 Level-0 table #5: 4664 bytes OK
-2020/11/25-23:41:57.965 58f4 Delete type=0 #3
-2020/11/25-23:41:57.966 58f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
